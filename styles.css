@@ -1,0 +1,515 @@
+:root {
+    --primary: #6c5ce7;
+    --secondary: #a8a4ff;
+    --success: #00b894;
+    --danger: #d63031;
+    --background: #2d3436;
+    --text: #ffffff;
+    --card-bg: #353b48;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: var(--background);
+    color: var(--text);
+    min-height: 100vh;
+}
+
+/* Container Layout */
+.container {
+    display: grid;
+    grid-template-columns: 280px 1fr;
+    gap: 2rem;
+    padding: 2rem;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+/* Sidebar Styles */
+.sidebar {
+    background: var(--card-bg);
+    border-radius: 20px;
+    padding: 1.5rem;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
+.sidebar-header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.logo {
+    font-size: 2rem;
+    color: var(--primary);
+    text-shadow: 0 3px 6px rgba(108,92,231,0.4);
+}
+
+.user-progress {
+    position: relative;
+    margin: 1.5rem 0;
+}
+
+.progress-ring {
+    position: relative;
+    margin: 0 auto;
+}
+
+.progress-ring-circle {
+    stroke: var(--primary);
+    stroke-linecap: round;
+    transform: rotate(-90deg);
+    transform-origin: 50% 50%;
+    transition: stroke-dashoffset 0.5s ease;
+}
+
+.progress-value {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    color: var(--text);
+}
+
+/* Chapter Accordion */
+.chapter-accordion {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.chapter-item {
+    background: rgba(255,255,255,0.05);
+    border-radius: 12px;
+    overflow: hidden;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.chapter-header {
+    padding: 1rem;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(108,92,231,0.1);
+}
+
+.chapter-title {
+    font-weight: 500;
+}
+
+.chapter-toggle {
+    transition: transform 0.3s ease;
+}
+
+.chapter-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+}
+
+.chapter-questions {
+    display: grid;
+    gap: 0.5rem;
+    padding: 0 1rem 1rem;
+}
+
+.question-item {
+    padding: 0.8rem;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.question-item::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 3px;
+    background: var(--primary);
+    transform: scaleX(0);
+    transition: transform 0.3s ease;
+}
+
+.question-item.answered::after {
+    transform: scaleX(1);
+}
+
+/* Question Card */
+.question-card {
+    background: var(--card-bg);
+    border-radius: 20px;
+    padding: 2rem;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.2);
+    transform-style: preserve-3d;
+}
+
+.question-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.question-title {
+    font-size: 1.5rem;
+    color: var(--primary);
+}
+
+.options-grid {
+    display: grid;
+    gap: 1rem;
+    margin: 2rem 0;
+}
+
+.option-btn {
+    padding: 1.2rem;
+    border: 2px solid rgba(255,255,255,0.1);
+    border-radius: 12px;
+    background: rgba(255,255,255,0.05);
+    color: var(--text);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-align: left;
+    backdrop-filter: blur(5px);
+}
+
+.option-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(108,92,231,0.3);
+    border-color: var(--primary);
+}
+
+.option-btn.correct {
+    background: rgba(0,184,148,0.15);
+    border-color: var(--success);
+}
+
+.option-btn.incorrect {
+    background: rgba(214,48,49,0.15);
+    border-color: var(--danger);
+}
+
+/* Completion Modal */
+.completion-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.8);
+    display: none;
+    place-items: center;
+    z-index: 1000;
+}
+
+.modal-content {
+    background: var(--card-bg);
+    padding: 3rem;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+    z-index: 2;
+}
+
+.confetti {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+/* Animations */
+@keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+}
+
+.animate-float {
+    animation: float 3s ease-in-out infinite;
+}
+
+@keyframes sparkle {
+    0% { opacity: 0; }
+    50% { opacity: 1; }
+    100% { opacity: 0; }
+}
+.confetti-particle {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+    animation: confetti-fall 2s linear forwards;
+}
+
+@keyframes confetti-fall {
+    0% {
+        transform: translateY(-100%) rotate(0deg);
+    }
+    100% {
+        transform: translateY(100vh) rotate(720deg);
+    }
+}
+
+/* Hiệu ứng cho modal */
+.modal-content {
+    transform: perspective(1000px) rotateX(10deg);
+    animation: modalEntry 0.8s cubic-bezier(0.68, -0.55, 0.265, 1.55) forwards;
+}
+
+@keyframes modalEntry {
+    0% {
+        transform: scale(0) rotateX(90deg);
+        opacity: 0;
+    }
+    100% {
+        transform: scale(1) rotateX(0);
+        opacity: 1;
+    }
+}
+
+/* Hiệu ứng nút tiếp tục */
+.continue-btn {
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+.continue-btn::after {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: linear-gradient(45deg, 
+        transparent 25%, 
+        rgba(255,255,255,0.2) 50%, 
+        transparent 75%);
+    animation: shine 2s infinite;
+}
+
+@keyframes shine {
+    0% { transform: translate(-50%, -50%) rotate(0deg); }
+    100% { transform: translate(-50%, -50%) rotate(360deg); }
+}
+
+/* Thêm vào styles.css */
+/* Nút làm lại */
+.reset-btn {
+    background: linear-gradient(135deg, #ff7675 0%, #d63031 100%);
+    position: relative;
+    overflow: hidden;
+    transition: 0.3s;
+    padding: 1rem 1.5rem;
+    margin: 0 10px;
+}
+
+.reset-btn::after {
+    content: '🔄';
+    position: absolute;
+    right: -20px;
+    transition: 0.3s;
+    opacity: 0;
+}
+
+.reset-btn:hover::after {
+    right: 15px;
+    opacity: 1;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+/* Cập nhật hiệu ứng nút */
+.nav-btn {
+    /* ... Giữ nguyên các thuộc tính cũ ... */
+    backdrop-filter: blur(5px);
+    border: 2px solid rgba(255,255,255,0.3);
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.nav-btn:hover {
+    transform: translateY(-5px) scale(1.05);
+    box-shadow: 0 12px 30px rgba(108,92,231,0.5),
+                inset 0 0 15px rgba(255,255,255,0.2);
+}
+
+/* Hiệu ứng neon cho nút tiếp tục */
+.continue-btn {
+    background: linear-gradient(135deg, #00b894 0%, #55efc4 100%);
+    border: 2px solid #00cec9;
+    box-shadow: 0 0 15px rgba(0, 184, 148, 0.5),
+                inset 0 0 10px rgba(255,255,255,0.1);
+    text-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+.continue-btn:hover {
+    filter: hue-rotate(15deg);
+    box-shadow: 0 0 25px rgba(0, 184, 148, 0.8),
+                inset 0 0 15px rgba(255,255,255,0.3);
+}
+
+/* Hiệu ứng huyền ảo cho modal */
+.modal-content {
+    background: linear-gradient(145deg, #2d3436 0%, #353b48 100%);
+    border: 2px solid var(--primary);
+    box-shadow: 0 0 40px rgba(108,92,231,0.3);
+}
+
+.close-modal {
+    background: linear-gradient(135deg, #6c5ce7 0%, #a8a4ff 100%);
+    border: 2px solid rgba(255,255,255,0.2);
+}
+
+
+
+
+
+
+/* styles.css */
+/* Chỉ giữ lại phần CSS cần thiết cho nút làm lại */
+.reset-btn {
+    background: linear-gradient(135deg, #ff7675 0%, #d63031 100%);
+    padding: 1rem 1.5rem;
+    border: 2px solid rgba(255,255,255,0.3);
+    border-radius: 15px;
+    color: white;
+    cursor: pointer;
+    transition: all 0.4s;
+    position: relative;
+    overflow: hidden;
+}
+
+.reset-btn:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 25px rgba(214, 48, 49, 0.5);
+}
+
+.reset-btn::after {
+    content: "🔄";
+    margin-left: 8px;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+.reset-btn:hover::after {
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+
+
+
+
+/* Thêm vào styles.css */
+@media (max-width: 768px) {
+    .container {
+        grid-template-columns: 1fr;
+        padding: 1rem;
+    }
+
+    .sidebar {
+        position: fixed;
+        top: 0;
+        left: -280px;
+        width: 280px;
+        height: 100vh;
+        z-index: 1000;
+        transition: 0.3s;
+    }
+
+    .sidebar.active {
+        left: 0;
+    }
+
+    .mobile-menu-btn {
+        display: block;
+        position: fixed;
+        top: 10px;
+        left: 10px;
+        z-index: 1100;
+        background: var(--primary);
+        border: none;
+        color: white;
+        padding: 10px;
+        border-radius: 8px;
+        font-size: 1.5rem;
+    }
+
+    .main-content {
+        margin-top: 50px;
+    }
+
+    .question-nav {
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+
+    .nav-btn {
+        flex: 1 1 45%;
+        padding: 0.8rem;
+    }
+}
+
+
+
+
+
+
+
+
+
+/* Thêm vào styles.css */
+.sidebar {
+    background: var(--card-bg);
+    border-radius: 20px;
+    padding: 1.5rem;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+    overflow-y: auto; /* Cho phép cuộn dọc */
+    max-height: 90vh; /* Giới hạn chiều cao tối đa */
+}
+
+/* Đảm bảo rằng nội dung bên trong không bị che khuất */
+.chapter-accordion {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding-bottom: 1rem; /* Thêm padding để tránh che khuất nội dung */
+}
+
+/* Điều chỉnh cho mobile */
+@media (max-width: 768px) {
+    .sidebar {
+        position: fixed;
+        top: 0;
+        left: -280px;
+        width: 280px;
+        height: 100vh;
+        z-index: 1000;
+        transition: 0.3s;
+        overflow-y: auto; /* Cho phép cuộn dọc trên mobile */
+    }
+
+    .sidebar.active {
+        left: 0;
+    }
+}

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hệ Thống Ôn Tập 3D</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <!-- Thêm vào file index.html -->
+<button class="mobile-menu-btn">☰</button>
+    <div class="container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h1 class="logo">📚 TheBan</h1>
+                <div class="user-progress">
+                    <div class="progress-ring">
+                        <svg width="60" height="60">
+                            <circle class="progress-ring-circle" stroke-width="4" fill="transparent" r="25" cx="30"
+                                cy="30" />
+                        </svg>
+                        <span class="progress-value">0%</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="chapter-accordion" id="chapter-list"></div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Question Navigation -->
+            <!-- Trong file index.html -->
+            <!-- Thêm nút làm lại vào phần question-nav -->
+            <div class="question-nav">
+                <button class="nav-btn reset-btn">🔄 Làm lại</button>
+                <button class="nav-btn prev-btn animate__animated">← Câu trước</button>
+                <div class="question-indicator">
+                    <span class="current-question">1</span>
+                    <span>/</span>
+                    <span class="total-questions">10</span>
+                </div>
+                <button class="nav-btn next-btn animate__animated">Câu tiếp →</button>
+            </div>
+
+            <!-- Question Card -->
+            <div class="question-card animate__animated">
+                <div class="question-header">
+                    <h2 class="question-title"></h2>
+                    <div class="question-stats">
+                        <span class="correct-count animate__bounceIn">👍 0</span>
+                        <span class="incorrect-count animate__bounceIn">👎 0</span>
+                    </div>
+                </div>
+
+                <div class="options-grid"></div>
+
+                <button class="continue-btn animate__pulse">
+                    Tiếp tục ➔
+                </button>
+            </div>
+
+            <!-- Chapter Completion Modal -->
+            <div class="completion-modal">
+                <div class="confetti"></div>
+                <div class="modal-content">
+                    <h2>🎉 Hoàn thành chương!</h2>
+                    <div class="score-board">
+                        <div class="score-item">
+                            <span class="label">Tổng câu:</span>
+                            <span class="value total-questions">0</span>
+                        </div>
+                        <div class="score-item">
+                            <span class="label">Đúng:</span>
+                            <span class="value correct-answers">0</span>
+                        </div>
+                        <div class="score-item">
+                            <span class="label">Điểm:</span>
+                            <span class="value score">0</span>
+                        </div>
+                    </div>
+                    <button class="close-modal">Đóng</button>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

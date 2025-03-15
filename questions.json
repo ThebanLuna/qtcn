@@ -1,0 +1,2470 @@
+{
+    "sections": [
+        {
+            "id": 1,
+            "title": "phần 1",
+            "questions": [
+                {
+                    "id": 1,
+                    "q": "Kinh tế học nghiên cứu về",
+                    "o": [
+                        "phương pháp sản xuất.",
+                        "cách thức xã hội quản lý các nguồn tài nguyên khan hiếm của mình.",
+                        "cách các hộ gia đình quyết định ai thực hiện nhiệm vụ nào.",
+                        "sự tương tác giữa doanh nghiệp và chính phủ."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 2,
+                    "q": "Các quyết định mà mọi xã hội phải đưa ra không trả lời câu hỏi nào sau đây?",
+                    "o": [
+                        "Điều gì quyết định sở thích của người tiêu dùng?",
+                        "Hàng hóa nào sẽ được sản xuất?",
+                        "Ai sẽ sản xuất hàng hóa?",
+                        "Ai sẽ tiêu thụ hàng hóa?"
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 3,
+                    "q": "Câu ngạn ngữ \"Không có bữa trưa nào miễn phí\" được dùng để minh họa cho nguyên lý kinh tế học nào?",
+                    "o": [
+                        "Hàng hóa thì khan hiếm.",
+                        "Con người phải đối mặt với sự đánh đổi.",
+                        "Thu nhập phải được kiếm ra.",
+                        "Hộ gia đình phải đối mặt với nhiều quyết định."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 4,
+                    "q": "Câu ngạn ngữ \"Không có bữa trưa nào miễn phí\" có nghĩa là",
+                    "o": [
+                        "ai cũng phải trả tiền cho thực phẩm.",
+                        "chi phí sinh hoạt luôn tăng.",
+                        "để có được thứ mình thích, chúng ta thường phải từ bỏ một thứ khác mà mình thích.",
+                        "tất cả các chi phí đều được bao gồm trong giá của một sản phẩm."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 5,
+                    "q": "Câu nào sau đây thể hiện rõ nhất nguyên tắc \"Con người phải đối mặt với sự đánh đổi\"?",
+                    "o": [
+                        "Mai chỉ có thể tham dự buổi hòa nhạc nếu cô ấy đưa em gái đi cùng.",
+                        "Mỵ đói và vô gia cư.",
+                        "Minh phải sửa xe đạp của mình trước khi có thể đi đến lớp.",
+                        "Thanh phải quyết định giữa việc đi Cửa Lò hoặc Sầm Sơn trong kỳ nghỉ hè."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 6,
+                    "q": "Nguyên tắc \"con người phải đối mặt với sự đánh đổi\" áp dụng cho",
+                    "o": [
+                        "các cá nhân.",
+                        "gia đình.",
+                        "xã hội.",
+                        "Tất cả các câu trên đều đúng."
+                    ],
+                    "a": 3
+                },
+                {
+                    "id": 7,
+                    "q": "Súng và bơ được dùng để tượng trưng cho sự đánh đổi của xã hội cổ điển giữa chi tiêu cho",
+                    "o": [
+                        "hàng hóa bền và không bền.",
+                        "hàng nhập khẩu và xuất khẩu.",
+                        "quốc phòng và hàng tiêu dùng.",
+                        "thực thi pháp luật và nông nghiệp."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 8,
+                    "q": "CÂU NÀY KHÔNG BT ĐÁP ÁN Khi chính phủ quyết định chi tiêu nhiều hơn cho quốc phòng, cũng đồng nghĩa với việc chi tiêu cho những lĩnh vực khác trong nền kinh tế giảm đi, điều này có nghĩa là",
+                    "o": [
+                        "Chính phủ đã ra một quyết định công bằng.",
+                        "Chính phủ đã ra một quyết định đánh đổi.",
+                        "Chính phủ đã ra một quyết định thay thế.",
+                        "Chính phủ đã ra một quyết định cân bằng."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 9,
+                    "q": "Khi xã hội yêu cầu các công ty phải giảm thiểu lượng ô nhiễm, sẽ có",
+                    "o": [
+                        "sự đánh đổi vì thu nhập của chủ sở hữu và công nhân của các công ty giảm.",
+                        "sự đánh đổi xảy ra nếu một số công ty buộc phải đóng cửa.",
+                        "không có sự đánh đổi, vì chi phí giảm ô nhiễm chỉ rơi vào các công ty bị ảnh hưởng bởi các yêu cầu.",
+                        "không có sự đánh đổi, vì mọi người đều được hưởng lợi từ việc giảm ô nhiễm."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 10,
+                    "q": "Trong kinh tế học, chi phí của một thứ gì đó là",
+                    "o": [
+                        "số tiền để có được nó.",
+                        "luôn được đo bằng đơn vị thời gian bỏ ra để có được nó.",
+                        "những gì bạn bỏ ra để có được nó.",
+                        "thường không thể định lượng được, ngay cả về nguyên tắc."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 11,
+                    "q": "Những gì bạn từ bỏ để có được một thứ được gọi là gì?",
+                    "o": [
+                        "Chi phí cơ hội của bạn",
+                        "Chi phí thực tế của bạn",
+                        "Chi phí tổng hợp của bạn",
+                        "Chi phí trực tiếp của bạn"
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 12,
+                    "q": "Chi phí cơ hội đi học đại học là",
+                    "o": [
+                        "tổng số chi tiêu thực phẩm, quần áo, sách vở, phương tiện đi lại, học phí, chỗ ở, và các chi phí khác.",
+                        "giá trị của cơ hội tốt nhất học sinh từ bỏ để đi học đại học.",
+                        "bằng không đối với những sinh viên may mắn nhận được học bổng toàn phần.",
+                        "bằng không, vì giáo dục đại học sẽ cho phép sinh viên kiếm được nhiều thu nhập hơn sau khi tốt nghiệp."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 13,
+                    "q": "Trong các loại chi phí sau đây, đâu là chi phí cơ hội cho việc học đại học?",
+                    "o": [
+                        "Tiền lương có thể kiếm được nếu không đi học đại học.",
+                        "Chi phí học thêm tiếng Anh.",
+                        "Chi phí cho phòng ở và chi phí sinh hoạt.",
+                        "Chi phí đi lại, giải trí và y tế."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 14,
+                    "q": "Mai quyết định dành 3 giờ làm việc thêm giờ thay vì hơn là xem một bộ phim với bạn bè của mình. Cô kiếm được 8 đô la một giờ. Chi phí cơ hội nếu cô đi xem phim là",
+                    "o": [
+                        "24 đô la cô kiếm được do đi làm việc.",
+                        "24 đô la trừ đi lợi ích quy đổi từ việc xem phim.",
+                        "24 đô la cộng với tiền vé xem phim.",
+                        "không gì cả"
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 15,
+                    "q": "KHONG BIET DAP AN Mai quyết định dành 3 giờ làm việc thêm giờ thay vì hơn là xem một bộ phim với bạn bè của mình. Cô kiếm được 8 đô la một giờ. Chi phí cơ hội nếu cô đi làm là",
+                    "o": [
+                        "niềm vui do việc xem bộ phim mang lại.",
+                        "niềm vui do việc xem bộ phim mang lại cộng với 24 đô la.",
+                        "niềm vui do bộ phim mang lại trừ đi 24 đô la.",
+                        "không gì cả"
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 16,
+                    "q": "Các quyết định cận biên được xem xét dựa trên so sánh giữa",
+                    "o": [
+                        "kinh nghiệm và lý luận",
+                        "chi phí và lợi nhuận",
+                        "chi phí cận biên và lợi ích cận biên",
+                        "chi phí cơ hội cận biên và lợi ích cận biên."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 17,
+                    "q": "Đâu là ví dụ tốt nhất của một sự thay đổi cận biên?",
+                    "o": [
+                        "Sau khi tốt nghiệp đại học, thu nhập của Long là 7 triệu đồng mỗi tháng.",
+                        "Mai được tăng lương ở chỗ làm thêm từ 50.000đ/h lên 55.000đ/h.",
+                        "Giá nhà ở trong khu vực tăng 40% khi một khu đô thị mới được xây dựng trong thị trấn.",
+                        "Một đợt không khí lạnh làm hỏng một nửa số vườn cam ở Hòa Bình và giá cả của nước cam tăng gấp đôi."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 18,
+                    "q": "Ví dụ nào sau đây minh họa cho sự thay đổi cận biên?",
+                    "o": [
+                        "Bà Hà nghỉ hưu và có một công việc bán thời gian. Trước đây bà đã làm việc 40 giờ mỗi tuần và hiện chỉ làm việc 10 giờ mỗi tuần.",
+                        "Trường đại học X công bố tăng học phí 25% vào năm tới.",
+                        "Dũng chuyển đến một căn hộ mới và bây giờ trả tiền thuê nhiều hơn 40% so với trước.",
+                        "Lượng mưa của Thái Nguyên năm 2023 tăng thêm 12mm so với mọi năm."
+                    ],
+                    "a": 3
+                },
+                {
+                    "id": 19,
+                    "q": "Sau khi xem xét, bạn đã lựa chọn Mộc Châu cho chuyến đi du xuân năm nay. Điều này có nghĩa là bạn cho rằng",
+                    "o": [
+                        "lợi ích cận biên của chuyến đi Mộc Châu tăng lên.",
+                        "chi phí cận biên của chuyến đi Mộc Châu giảm xuống.",
+                        "lợi ích cận biên của chuyến đi Mộc Châu nhỏ hơn chi phí cận biên của chuyến đi Mộc Châu.",
+                        "lợi ích cận biên của chuyến đi Mộc Châu lớn hơn chi phí cận biên của chuyến đi Mộc Châu."
+                    ],
+                    "a": 3
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "phaanf 2",
+            "questions": [
+                {
+                    "id": 1,
+                    "q": "Người duy lý sẽ hành động nếu và chỉ nếu",
+                    "o": [
+                        "lợi ích cận biên của hành động vượt quá chi phí cận biên của hành động.",
+                        "chi phí cận biên của hành động vượt quá lợi ích cận biên của hành động.",
+                        "chi phí cận biên của hành động bằng không.",
+                        "chi phí cơ hội của hành động bằng không."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 2,
+                    "q": "Nguyên lý nào sau đây không phải là một trong bốn nguyên lý liên quan đến cách thức con người ra quyết định?",
+                    "o": [
+                        "Con người phải đối mặt với sự đánh đổi.",
+                        "Thương mại có thể khiến mọi người trở nên tốt hơn.",
+                        "Con người phản ứng với các kích thích.",
+                        "Những người lý trí suy nghĩ ở điểm cận biên."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 3,
+                    "q": "Nguyên lý 'Mọi người phản ứng với các kích thích' có nghĩa là",
+                    "o": [
+                        "những thay đổi về chi phí (nhưng không phải những thay đổi về lợi ích) ảnh hưởng đến quyết định và hành vi của mọi người.",
+                        "những thay đổi về lợi ích (nhưng không phải những thay đổi về chi phí) ảnh hưởng đến quyết định và hành vi của mọi người.",
+                        "những thay đổi về lợi ích hoặc những thay đổi về chi phí ảnh hưởng đến quyết định và hành vi của mọi người.",
+                        "những sự đánh đổi có thể bị loại bỏ bởi những người lý trí nghĩ ở mức cận biên."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 4,
+                    "q": "Các nhà kinh tế học chỉ ra rằng mọi người đều phản ứng với",
+                    "o": [
+                        "luật pháp.",
+                        "các kích thích.",
+                        "hình phạt nhiều hơn phần thưởng.",
+                        "phần thưởng nhiều hơn hình phạt."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 5,
+                    "q": "Chủ một quán cà phê đang quyết định có nên thuê thêm một nhân viên phục vụ bàn không? Quyết định này phụ thuộc vào",
+                    "o": [
+                        "tổng số tiền trả cho nhân viên mới.",
+                        "tổng số tiền trả cho tất cả những nhân viên đã thuê trước đó.",
+                        "tổng số tiền trả cho tất cả nhân viên, cả nhân viên mới và những nhân viên đã thuê trước đó.",
+                        "doanh thu tạo ra thêm trừ đi chi phí thuê nhân viên đó."
+                    ],
+                    "a": 3
+                },
+                {
+                    "id": 6,
+                    "q": "Giả sử bạn dành hai giờ mỗi ngày để học học phần QTDNCN và điểm của bạn là 7. Bạn muốn điểm cao hơn và quyết định học thêm một giờ mỗi ngày. Kết quả là điểm của bạn tăng lên 9. Lợi ích cận biên của bạn là",
+                    "o": [
+                        "2 điểm tăng trừ đi chi phí cơ hội của bạn khi dành một giờ để học.",
+                        "thêm một giờ mỗi ngày để học.",
+                        "tăng 2 điểm của bạn.",
+                        "ba giờ mỗi ngày để học."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 7,
+                    "q": "Hoa có điểm trung bình kiểm tra thường xuyên là 5 điểm (thang điểm 10). Có một bài tập bổ sung mà Hoa có thể hoàn thành sẽ giúp tăng điểm trung bình kiểm tra thường xuyên của cô ấy thêm 2 điểm. Hoa đã xác định rằng cô ấy cần 5 giờ để hoàn thành bài tập bổ sung đó. Hoa sẽ hoàn thành bài tập nếu cô ấy coi trọng",
+                    "o": [
+                        "2 điểm tăng thêm đó hơn so với 5 giờ của cô ấy.",
+                        "5 giờ của cô ấy hơn so với 2 điểm tăng thêm.",
+                        "7 điểm tăng thêm hơn so với 5 giờ của cô ấy.",
+                        "thời gian của cô ấy."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 8,
+                    "q": "Câu nào sau đây tạo ra kích thích để tăng số lượng hoạt động?",
+                    "o": [
+                        "Chi phí cận biên của hoạt động tăng và lợi ích cận biên của hoạt động giảm.",
+                        "Chi phí cận biên của hoạt động giảm và lợi ích cận biên của hoạt động tăng.",
+                        "Chi phí cận biên không đổi và lợi ích cận biên không đổi của hoạt động.",
+                        "Không có câu nào phía trên tạo ra kích thích để tăng số lượng hoạt động."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 9,
+                    "q": "Giả sử chính quyền tỉnh A hứa sẽ giảm thuế cho một công ty nếu công ty đó quyết định đầu tư xây dựng nhà xưởng sản xuất tại tỉnh A thay vì chuyển đến một tỉnh khác khác. Chính sách này của chính quyền tỉnh A tạo ra ________, khiến cho________ của việc ở lại tỉnh A của công ty đó.",
+                    "o": [
+                        "một sự kích thích; lợi ích cận biên lớn hơn chi phí cận biên",
+                        "một sự kích thích; chi phí cận biên lớn hơn lợi ích cận biên",
+                        "một mệnh lệnh; lợi ích cận biên vượt quá chi phí cận biên",
+                        "một mệnh lệnh; chi phí cận biên vượt quá lợi ích cận biên"
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 10,
+                    "q": "Các chính sách của chính phủ có thể thay đổi chi phí và lợi ích mà mọi người phải đối mặt. Những chính sách đó có khả năng",
+                    "o": [
+                        "thay đổi hành vi của mọi người.",
+                        "thay đổi quyết định của mọi người ở điểm cận biên.",
+                        "tạo ra những kết quả mà các nhà hoạch định chính sách không mong muốn.",
+                        "Tất cả những điều trên đều đúng."
+                    ],
+                    "a": 3
+                },
+                {
+                    "id": 11,
+                    "q": "Sơ đồ dòng lưu chuyển của nền kinh tế là một",
+                    "o": [
+                        "mô hình trực quan về cách thức tổ chức nền kinh tế.",
+                        "mô hình trực quan về mối quan hệ giữa tiền, giá cả và doanh nghiệp.",
+                        "mô hình cho thấy tác động của chính phủ đối với nền kinh tế.",
+                        "mô hình toán học về cách thức nền kinh tế hoạt động."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 12,
+                    "q": "Trong sơ đồ dòng lưu chuyển của nền kinh tế,",
+                    "o": [
+                        "các doanh nghiệp là người mua trên thị trường hàng hóa và dịch vụ.",
+                        "hộ gia đình là người bán trên thị trường các yếu tố sản xuất.",
+                        "các doanh nghiệp là người bán trên thị trường các yếu tố sản xuất và trên thị trường hàng hóa và dịch vụ.",
+                        "số tiền chi cho hàng hóa và dịch vụ chảy trực tiếp từ các doanh nghiệp đến hộ gia đình."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 13,
+                    "q": "Trong sơ đồ dòng lưu chuyển của nền kinh tế, trên thị trường các yếu tố sản xuất,",
+                    "o": [
+                        "hộ gia đình cung cấp cho các doanh nghiệp lao động, đất đai và vốn.",
+                        "hộ gia đình cung cấp cho các doanh nghiệp tiền tiết kiệm để đầu tư.",
+                        "các doanh nghiệp cung cấp cho các hộ gia đình hàng hóa và dịch vụ.",
+                        "chính phủ cung cấp cho các doanh nghiệp đầu vào cho quá trình sản xuất."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 14,
+                    "q": "Trong sơ đồ dòng lưu chuyển của nền kinh tế, trên thị trường hàng hóa và dịch vụ,",
+                    "o": [
+                        "hộ gia đình cung cấp cho các doanh nghiệp tiền tiết kiệm để đầu tư.",
+                        "hộ gia đình cung cấp cho các doanh nghiệp lao động, đất đai và vốn.",
+                        "các doanh nghiệp cung cấp cho các hộ gia đình hàng hóa, dịch vụ.",
+                        "chính phủ cung cấp cho các doanh nghiệp đầu vào cho quá trình sản xuất."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 15,
+                    "q": "Giao dịch nào sau đây không diễn ra trên thị trường yếu tố sản xuất (trong sơ đồ dòng lưu chuyển của nền kinh tế)?",
+                    "o": [
+                        "Tú cung cấp dịch vụ sửa ống nước cho một công ty sửa ống nước và nhận được tiền công theo giờ từ công ty cho các dịch vụ của mình.",
+                        "Mai làm việc như một cố vấn hôn nhân và khách hàng trả tiền cho cô theo giờ cho các dịch vụ của cô.",
+                        "Trinh sở hữu một số trung tâm mua sắm và nhận tiền thuê nhà từ các công ty điều hành các trung tâm mua sắm đó.",
+                        "Bân bán quảng cáo cho một tờ báo và nhận hoa hồng từ công ty báo cho mỗi quảng cáo mà anh bán được."
+                    ],
+                    "a": 3
+                },
+                {
+                    "id": 16,
+                    "q": "Trong nền kinh tế thị trường, ai là người đưa ra quyết định dẫn dắt hầu hết các hoạt động kinh tế?",
+                    "o": [
+                        "Chỉ có các doanh nghiệp.",
+                        "Chỉ có các hộ gia đình.",
+                        "Doanh nghiệp và hộ gia đình.",
+                        "Chính phủ."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 17,
+                    "q": "Giá cả điều chỉnh hoạt động kinh tế trong nền kinh tế thị trường bằng cách",
+                    "o": [
+                        "tác động đến hành vi của người mua và người bán.",
+                        "giảm tình trạng khan hiếm hàng hóa và dịch vụ được sản xuất.",
+                        "loại bỏ sự can thiệp của chính phủ.",
+                        "phân bổ hàng hóa và dịch vụ theo cách công bằng nhất."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 18,
+                    "q": "'Giỏ hàng hóa' được sử dụng để tính CPI bao gồm",
+                    "o": [
+                        "nguyên vật liệu thô được mua bởi các doanh nghiệp.",
+                        "tất cả các sản phẩm hiện hành.",
+                        "các sản phẩm được mua bởi người tiêu dùng điển hình.",
+                        "tất cả các sản phẩm tiêu dung."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 19,
+                    "q": "Theo phương pháp tiếp cận chi tiêu trong việc tính GDP, khoản tiền mà gia đình bạn mua một ngôi nhà bốn tầng mới xây được tính là",
+                    "o": [
+                        "tiêu dùng.",
+                        "đầu tư.",
+                        "mua hàng của chính phủ.",
+                        "xuất khẩu ròng."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 20,
+                    "q": "Theo phương pháp tiếp cận chi tiêu trong việc tính GDP, khoản tiền mà Thành phố Hà Nội chi để thay mới hệ thống chiếu sáng trong dịp hội nghị APEC được tính là",
+                    "o": [
+                        "tiêu dùng.",
+                        "đầu tư.",
+                        "mua hàng của chính phủ.",
+                        "xuất khẩu ròng."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 21,
+                    "q": "Lạm phát là sự gia tăng của",
+                    "o": [
+                        "giá cả một mặt hang.",
+                        "mức giá chung.",
+                        "mức thu nhập bình quân.",
+                        "mức giá chung giảm từ năm này sang năm khác."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 22,
+                    "q": "Để tính GDP, chúng ta",
+                    "o": [
+                        "cộng tổng tiền lương trả cho tất cả người lao động trong một thời kỳ nhất định.",
+                        "cộng tổng chi phí sản xuất tất cả hàng hóa và dịch vụ cuối cùng trong một thời kỳ nhất định.",
+                        "cộng tổng giá trị thị trường của tất cả hàng hóa và dịch vụ cuối cùng tạo ra trong lãnh thổ của một quốc gia trong một thời kỳ nhất định.",
+                        "lấy chênh lệch giữa giá trị thị trường của tất cả hàng hóa và dịch vụ cuối cùng và chi phí sản xuất những hàng hóa và dịch vụ cuối cùng đó trong một thời kỳ nhất định."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 23,
+                    "q": "Muốn tính GNP từ GDP của một nước, chúng ta phải",
+                    "o": [
+                        "trừ đi chuyển giao thu nhập của chính phủ cho các hộ gia đình.",
+                        "cộng với thuế gián thu.",
+                        "cộng với xuất khẩu ròng.",
+                        "cộng với thu nhập yếu tố ròng từ nước ngoài."
+                    ],
+                    "a": 3
+                },
+                {
+                    "id": 24,
+                    "q": "Nội dung nào sau đây không được bao gồm trong GDP của Việt Nam?",
+                    "o": [
+                        "Dịch vụ dọn dẹp và bảo trì nhà cửa không được trả công.",
+                        "Các dịch vụ do luật sư và thợ làm tóc cung cấp.",
+                        "Giá trị thuê ước tính của nhà ở do chủ sở hữu sử dụng.",
+                        "Sản lượng của công dân nước ngoài sống tại Việt Nam."
+                    ],
+                    "a": 3
+                },
+                {
+                    "id": 25,
+                    "q": "Giao dịch nào sau đây được tính vào GDP của Việt Nam năm 2023?",
+                    "o": [
+                        "Năm 2023, Lan bán chiếc ô tô mà cô mua năm 2019 cho Tuấn với giá 300 triệu đồng.",
+                        "Một cố vấn quản lý người Việt Nam làm việc tại Đài Loan vào mùa hè năm 2023 và kiếm được số tiền tương đương 300 triệu đồng trong thời gian đó.",
+                        "Khi Lan và Tuấn còn độc thân, họ sống trong những căn hộ riêng biệt và mỗi người trả 3 triệu đồng tiền thuê nhà. Lan và Tuấn kết hôn vào năm 2023 và họ đã mua một ngôi nhà mà theo ước tính đáng tin cậy, có thể cho thuê với giá 14 triệu đồng một tháng.",
+                        "Không có giao dịch nào ở trên bổ sung vào GDP của Việt Nam năm 2023."
+                    ],
+                    "a": 3
+                },
+                {
+                    "id": 26,
+                    "q": "Trong nền kinh tế thị trường, ai là người đưa ra quyết định dẫn dắt hầu hết các hoạt động kinh tế?",
+                    "o": [
+                        "Chỉ có các doanh nghiệp.",
+                        "Chỉ có các hộ gia đình.",
+                        "Doanh nghiệp và hộ gia đình.",
+                        "Chính phủ."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 27,
+                    "q": "Giá cả điều chỉnh hoạt động kinh tế trong nền kinh tế thị trường bằng cách",
+                    "o": [
+                        "tác động đến hành vi của người mua và người bán.",
+                        "giảm tình trạng khan hiếm hàng hóa và dịch vụ được sản xuất.",
+                        "loại bỏ sự can thiệp của chính phủ.",
+                        "phân bổ hàng hóa và dịch vụ theo cách công bằng nhất."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 28,
+                    "q": "'Giỏ hàng hóa' được sử dụng để tính CPI bao gồm",
+                    "o": [
+                        "nguyên vật liệu thô được mua bởi các doanh nghiệp.",
+                        "tất cả các sản phẩm hiện hành.",
+                        "các sản phẩm được mua bởi người tiêu dùng điển hình.",
+                        "tất cả các sản phẩm tiêu dung."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 29,
+                    "q": "Theo phương pháp tiếp cận chi tiêu trong việc tính GDP, khoản tiền mà gia đình bạn mua một ngôi nhà bốn tầng mới xây được tính là",
+                    "o": [
+                        "tiêu dùng.",
+                        "đầu tư.",
+                        "mua hàng của chính phủ.",
+                        "xuất khẩu ròng."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 30,
+                    "q": "Theo phương pháp tiếp cận chi tiêu trong việc tính GDP, khoản tiền mà Thành phố Hà Nội chi để thay mới hệ thống chiếu sáng trong dịp hội nghị APEC được tính là",
+                    "o": [
+                        "tiêu dùng.",
+                        "đầu tư.",
+                        "mua hàng của chính phủ.",
+                        "xuất khẩu ròng."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 31,
+                    "q": "Lạm phát là sự gia tăng của",
+                    "o": [
+                        "giá cả một mặt hang.",
+                        "mức giá chung.",
+                        "mức thu nhập bình quân.",
+                        "mức giá chung giảm từ năm này sang năm khác."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 32,
+                    "q": "Để tính GDP, chúng ta",
+                    "o": [
+                        "cộng tổng tiền lương trả cho tất cả người lao động trong một thời kỳ nhất định.",
+                        "cộng tổng chi phí sản xuất tất cả hàng hóa và dịch vụ cuối cùng trong một thời kỳ nhất định.",
+                        "cộng tổng giá trị thị trường của tất cả hàng hóa và dịch vụ cuối cùng tạo ra trong lãnh thổ của một quốc gia trong một thời kỳ nhất định.",
+                        "lấy chênh lệch giữa giá trị thị trường của tất cả hàng hóa và dịch vụ cuối cùng và chi phí sản xuất những hàng hóa và dịch vụ cuối cùng đó trong một thời kỳ nhất định."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 33,
+                    "q": "Muốn tính GNP từ GDP của một nước, chúng ta phải",
+                    "o": [
+                        "trừ đi chuyển giao thu nhập của chính phủ cho các hộ gia đình.",
+                        "cộng với thuế gián thu.",
+                        "cộng với xuất khẩu ròng.",
+                        "cộng với thu nhập yếu tố ròng từ nước ngoài."
+                    ],
+                    "a": 3
+                },
+                {
+                    "id": 34,
+                    "q": "Nội dung nào sau đây không được bao gồm trong GDP của Việt Nam?",
+                    "o": [
+                        "Dịch vụ dọn dẹp và bảo trì nhà cửa không được trả công.",
+                        "Các dịch vụ do luật sư và thợ làm tóc cung cấp.",
+                        "Giá trị thuê ước tính của nhà ở do chủ sở hữu sử dụng.",
+                        "Sản lượng của công dân nước ngoài sống tại Việt Nam."
+                    ],
+                    "a": 3
+                },
+                {
+                    "id": 35,
+                    "q": "Giao dịch nào sau đây được tính vào GDP của Việt Nam năm 2023?",
+                    "o": [
+                        "Năm 2023, Lan bán chiếc ô tô mà cô mua năm 2019 cho Tuấn với giá 300 triệu đồng.",
+                        "Một cố vấn quản lý người Việt Nam làm việc tại Đài Loan vào mùa hè năm 2023 và kiếm được số tiền tương đương 300 triệu đồng trong thời gian đó.",
+                        "Khi Lan và Tuấn còn độc thân, họ sống trong những căn hộ riêng biệt và mỗi người trả 3 triệu đồng tiền thuê nhà. Lan và Tuấn kết hôn vào năm 2023 và họ đã mua một ngôi nhà mà theo ước tính đáng tin cậy, có thể cho thuê với giá 14 triệu đồng một tháng.",
+                        "Không có giao dịch nào ở trên bổ sung vào GDP của Việt Nam năm 2023."
+                    ],
+                    "a": 3
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "phần 3",
+            "questions": [
+                {
+                    "id": 1,
+                    "q": "Nếu GDP của Việt Nam lớn hơn GNP của Việt Nam có nghĩa là",
+                    "o": [
+                        "thu nhập của người nước ngoài tạo ra ở Việt Nam nhiều hơn so với thu nhập của người Việt Nam tạo ra ở nước ngoài.",
+                        "thu nhập của người nước ngoài tạo ra ở Việt Nam ít hơn so với thu nhập của người Việt Nam tạo ra ở nước ngoài.",
+                        "GDP thực tế lớn hơn GDP danh nghĩa.",
+                        "giá trị hàng hóa trung gian lớn hơn giá trị hàng hóa cuối cùng."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 2,
+                    "q": "Hoa trả tiền cho ai đó cắt cỏ ở vườn nhà mình, trong khi Hoàng tự cắt cỏ cho vườn nhà mình. Về hai hoạt động này, câu nào sau đây là đúng?",
+                    "o": [
+                        "Chỉ có khoản thanh toán của Hoa được đưa vào GDP.",
+                        "Khoản thanh toán của Hoa cũng như giá trị ước tính của dịch vụ cắt cỏ của Hoàng được đưa vào GDP.",
+                        "Cả khoản thanh toán của Hoa và giá trị ước tính của dịch vụ cắt cỏ của Hoàng đều không được đưa vào GDP.",
+                        "Khoản thanh toán của Hoa chắc chắn được đưa vào GDP, trong khi giá trị ước tính của dịch vụ cắt cỏ của Hoàng chỉ được đưa vào GDP nếu Hoàng tự nguyện cung cấp ước tính của mình về giá trị đó cho chính phủ."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 3,
+                    "q": "Lạm phát có thể được đo bằng",
+                    "o": [
+                        "sự thay đổi trong chỉ số giá tiêu dùng.",
+                        "phần trăm thay đổi trong chỉ số giá tiêu dùng.",
+                        "phần trăm thay đổi trong giá của một mặt hàng cụ thể.",
+                        "sự thay đổi trong giá của một mặt hàng cụ thể."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 4,
+                    "q": "Mức giá tiêu dùng tăng từ 120 lên 150. Tỷ lệ lạm phát là bao nhiêu?",
+                    "o": [
+                        "30%",
+                        "25%",
+                        "20%",
+                        "Không có câu nào trên đây là đúng."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 5,
+                    "q": "Mức giá tiêu dùng tăng từ 120 lên 126. Tỷ lệ lạm phát là bao nhiêu?",
+                    "o": [
+                        "3%",
+                        "5%",
+                        "6%",
+                        "Không có câu nào trên đây là đúng."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 6,
+                    "q": "Lực lượng lao động bằng",
+                    "o": [
+                        "số người có việc làm.",
+                        "số người thất nghiệp.",
+                        "số người có việc làm cộng với số người thất nghiệp.",
+                        "dân số trưởng thành."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 7,
+                    "q": "Một nước có dân số là 60 triệu người, trong đó 18 triệu người có việc làm và 2 triệu người thất nghiệp. Tỷ lệ thất nghiệp là:",
+                    "o": [
+                        "3,333%",
+                        "30%",
+                        "11,11%",
+                        "10%"
+                    ],
+                    "a": 3
+                },
+                {
+                    "id": 8,
+                    "q": "Một nước có dân số là 60 triệu người, trong đó 19 triệu người có việc làm và 1 triệu người thất nghiệp. Tỷ lệ thất nghiệp là",
+                    "o": [
+                        "5.26%.",
+                        "31.67%.",
+                        "1.67%.",
+                        "5%."
+                    ],
+                    "a": 3
+                },
+                {
+                    "id": 9,
+                    "q": "Khi mức giá chung tăng, số tiền cần thiết để mua một 'giỏ hàng hóa' tiêu biểu",
+                    "o": [
+                        "tăng, do đó giá trị của tiền tăng.",
+                        "tăng, do đó giá trị của tiền giảm.",
+                        "giảm, do đó giá trị của tiền tăng.",
+                        "giảm, do đó giá trị của tiền giảm."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 10,
+                    "q": "Một doanh nghiệp Việt Nam điều hành một nhà hàng phở tại Hoa Kỳ. Lợi nhuận từ nhà hàng này được bao gồm trong",
+                    "o": [
+                        "GNP của Hoa Kỳ và GNP của Việt Nam.",
+                        "GDP của Hoa Kỳ và GDP của Việt Nam.",
+                        "GDP của Hoa Kỳ và GNP của Việt Nam.",
+                        "GNP của Hoa Kỳ và GDP của Việt Nam."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 11,
+                    "q": "Năm 2011, Armenia có GDP thực tế là 4,21 tỷ đô la và dân số là 2,98 triệu người. Năm 2012, GDP thực tế là 4,59 tỷ đô la và dân số là 2,97 triệu người. Tốc độ tăng trưởng kinh tế của Armenia từ năm 2011 đến năm 2012 là bao nhiêu?",
+                    "o": [
+                        "0,38%",
+                        "9,0%",
+                        "3,8%",
+                        "8,3%"
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 12,
+                    "q": "Giả sử GDP thực tế của một quốc gia là 13 nghìn tỷ đô la vào năm 2010, 14 nghìn tỷ đô la vào năm 2011, 15 nghìn tỷ đô la vào năm 2012 và 16 nghìn tỷ đô la vào năm 2013. Trong khoảng thời gian này, tốc độ tăng trưởng GDP thực tế là",
+                    "o": [
+                        "tăng dần.",
+                        "giảm dần.",
+                        "không đổi.",
+                        "âm."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 13,
+                    "q": "Lan Ngọc mua một chiếc váy thiết kế ở một cửa hàng thời trang do người Việt Nam làm chủ sản xuất tại Pháp. Kết quả là, mức tiêu dùng của Việt Nam tăng, xuất khẩu ròng của Việt Nam",
+                    "o": [
+                        "giảm, GDP của Việt Nam không bị ảnh hưởng và GNP của Việt Nam tăng.",
+                        "giảm, GDP của Việt Nam tăng và GNP của Việt Nam không bị ảnh hưởng.",
+                        "giảm, GNP của Việt Nam tăng và GDP của Pháp không bị ảnh hưởng.",
+                        "không bị ảnh hưởng, GDP của Việt Nam không bị ảnh hưởng và GDP của Pháp tăng."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 14,
+                    "q": "Lan Ngọc đang tạm thời nghỉ việc tại nhà máy. Nếu Lan Ngọc tham gia khảo sát của Tổng cục Thống kê Việt Nam, cô ấy sẽ được phân loại là",
+                    "o": [
+                        "thất nghiệp và trong lực lượng lao động.",
+                        "thất nghiệp và không có trong lực lượng lao động.",
+                        "có việc làm và trong lực lượng lao động.",
+                        "có việc làm và không có trong lực lượng lao động."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 15,
+                    "q": "Lan Ngọc mất việc và quyết định nghỉ ngơi thư giãn tại nhà thay vì tìm việc trong vài tháng tới. Giả sử các yếu tố khác không thay đổi, tỷ lệ thất nghiệp",
+                    "o": [
+                        "tăng, và tỷ lệ tham gia lực lượng lao động không bị ảnh hưởng.",
+                        "tăng, và tỷ lệ tham gia lực lượng lao động giảm.",
+                        "giảm, và tỷ lệ tham gia lực lượng lao động tăng.",
+                        "giảm, và tỷ lệ tham gia lực lượng lao động giảm."
+                    ],
+                    "a": 3
+                },
+                {
+                    "id": 16,
+                    "q": "'Quy luật cầu' phát biểu rằng trong điều kiện các yếu tố khác không đổi, những thay đổi của",
+                    "o": [
+                        "cầu hàng hóa có liên quan trực tiếp đến những thay đổi của cung hàng hóa đó.",
+                        "lượng cầu của một mặt hàng không liên quan đến những thay đổi của lượng cung mặt hàng đó.",
+                        "lượng cầu của một mặt hàng có liên quan nghịch đảo với những thay đổi của giá mặt hàng đó.",
+                        "cầu hàng hóa có liên quan nghịch đảo với những thay đổi của cung hàng hóa đó."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 17,
+                    "q": "Đường cầu một hàng hóa, dịch vụ:",
+                    "o": [
+                        "cho biết số lượng hàng hóa/ dịch vụ mà người mua muốn mua và có khả năng mua tại mỗi mức giá.",
+                        "cho biết giá cân bằng thị trường.",
+                        "biểu thị hàng hóa/ dịch vụ nào sẽ được thay thế bởi hàng hóa dịch vụ nào.",
+                        "Các phương án đều đúng."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 18,
+                    "q": "Trong điều kiện các yếu tố khác không đổi, cầu thịt gà sẽ thay đổi như thế nào khi giá cả của thịt lợn tăng lên?",
+                    "o": [
+                        "Cầu thịt gà sẽ tăng lên.",
+                        "Cầu thịt gà sẽ giảm xuống.",
+                        "Cầu thịt gà không thay đổi.",
+                        "Cầu thịt gà có thể tăng lên, giảm xuống, hoặc không đổi."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 19,
+                    "q": "Đường cầu thị trường được xây dựng bằng cách",
+                    "o": [
+                        "cộng theo chiều ngang (trục hoành) các lượng cầu của từng hãng tương ứng tại mỗi mức giá.",
+                        "cộng theo chiều dọc (trục tung) các lượng cầu của từng hãng tương ứng tại mỗi mức giá.",
+                        "cộng theo chiều ngang (trục hoành) các lượng cầu của từng cá nhân tương ứng tại mỗi mức giá.",
+                        "cộng theo chiều dọc (trục tung) các lượng cầu của từng cá nhân tương ứng tại mỗi mức giá."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 20,
+                    "q": "Sự thay đổi các yếu tố nào sau đây không làm đường cầu về thịt lợn dịch chuyển?",
+                    "o": [
+                        "Tin tức về dư lượng thuốc cấm trong chăn nuôi tìm thấy trong thịt lợn.",
+                        "Giá thịt lợn.",
+                        "Thu nhập của người tiêu dùng.",
+                        "Giá cả của thịt bò."
+                    ],
+                    "a": 1
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "phần 4",
+            "questions": [
+                {
+                    "id": 1,
+                    "q": "Quy luật cung nêu rằng, nếu những yếu tố khác không đổi, các hãng sẽ sản xuất",
+                    "o": [
+                        "nhiều hàng hóa hơn khi chi phí sản xuất thấp hơn.",
+                        "ít hàng hóa hơn khi chi phí sản xuất cao hơn.",
+                        "nhiều hàng hóa hơn khi giá của mặt hàng đó cao hơn.",
+                        "ít hàng hóa hơn khi các nguồn lực cần thiết trở nên khan hiếm hơn."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 2,
+                    "q": "Khái niệm nào mô tả tập hợp tất cả các điểm phản ánh mối quan hệ giữa giá cả và lượng hàng hóa hoặc dịch vụ cung ứng trong điều kiện các yếu tố khác không đổi?",
+                    "o": [
+                        "Biểu cung.",
+                        "Hàm cung.",
+                        "Đường cung.",
+                        "Lượng cung."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 3,
+                    "q": "Khi giá tăng, nhiều hãng sẵn sàng gia nhập thị trường để sản xuất ra nhiều hàng hóa hơn. Tình huống này mô tả sự thay đổi nào của đường cung?",
+                    "o": [
+                        "Lượng cung tăng dọc theo đường cung của hãng.",
+                        "Lượng cung tăng dọc theo đường cung thị trường.",
+                        "Đường cung thị trường dịch chuyển sang phải.",
+                        "Đường cung cá nhân dịch chuyển sang phải."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 4,
+                    "q": "Công ty may TNG đầu tư nhà máy mới gia tăng 12.000 sản phẩm/ năm. Tình huống này mô tả sự thay đổi nào của đường cung thị trường?",
+                    "o": [
+                        "Lượng cung tăng dọc theo đường cung thị trường.",
+                        "Lượng cung tăng dọc theo đường cung thị trường.",
+                        "Đường cung thị trường dịch chuyển sang phải.",
+                        "Đường cung cá nhân dịch chuyển sang phải."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 5,
+                    "q": "Yếu tố nào sau đây làm đường cung của các bữa ăn tại nhà hàng dịch chuyển sang trái?",
+                    "o": [
+                        "Người phục vụ được tăng lương.",
+                        "Thu nhập của người tiêu dùng tăng và các bữa ăn tại nhà hàng là một loại hàng hóa thông thường.",
+                        "Thu nhập của người tiêu dùng giảm và các bữa ăn tại nhà hàng là một loại hàng hóa thông thường.",
+                        "Số lượng các nhà hàng ngày càng tăng lên."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 6,
+                    "q": "Khi thị trường ở trạng thái cân bằng,",
+                    "o": [
+                        "mọi người đều có tất cả những hàng hóa họ mong muốn.",
+                        "không có tình trạng thiếu hụt và không có tình trạng dư thừa hàng hóa ở mức giá cân bằng.",
+                        "số lượng người mua bằng đúng số lượng người bán.",
+                        "đường cung có cùng độ dốc với đường cầu."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 7,
+                    "q": "Khi thị trường ở trạng thái dư cung thì",
+                    "o": [
+                        "mức giá thị trường cao hơn giá cân bằng dài hạn.",
+                        "mức giá thị trường thấp hơn giá cân bằng dài hạn.",
+                        "mức giá thị trường bằng giá cân bằng dài hạn.",
+                        "mức giá thị trường có thể cao hơn, thấp hơn, bằng giá cân bằng dài hạn."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 8,
+                    "q": "Ở thị trường có số lượng hàng hóa mà người mua muốn mua để tiêu dùng lớn hơn số lượng người bán muốn sản xuất để bán thì",
+                    "o": [
+                        "mức giá thị trường nằm ở trên giá cân bằng dài hạn.",
+                        "mức giá thị trường nằm ở dưới giá cân bằng dài hạn.",
+                        "mức giá thị trường bằng giá cân bằng dài hạn.",
+                        "mức giá thị trường có thể cao hơn, thấp hơn, bằng giá cân bằng dài hạn."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 9,
+                    "q": "Trong mô hình chuẩn về cung cầu, điều gì xảy ra khi cầu giảm, cung không thay đổi?",
+                    "o": [
+                        "Cân bằng thị trường mới có giá và lượng tăng so với cân bằng thị trường ban đầu.",
+                        "Cân bằng thị trường mới có giá và lượng giảm so với cân bằng thị trường ban đầu.",
+                        "Cân bằng thị trường mới có giá giảm và lượng tăng so với cân bằng thị trường ban đầu.",
+                        "Cân bằng thị trường mới có giá tăng và lượng giảm so với cân bằng thị trường ban đầu."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 10,
+                    "q": "Trong mô hình chuẩn về cung cầu, điều gì xảy ra khi cung giảm, cầu không thay đổi?",
+                    "o": [
+                        "Cân bằng thị trường mới có giá và lượng tăng so với cân bằng thị trường ban đầu.",
+                        "Cân bằng thị trường mới có giá và lượng giảm so với cân bằng thị trường ban đầu.",
+                        "Cân bằng thị trường mới có giá giảm và lượng tăng so với cân bằng thị trường ban đầu.",
+                        "Cân bằng thị trường mới có giá tăng và lượng giảm so với cân bằng thị trường ban đầu."
+                    ],
+                    "a": 3
+                },
+                {
+                    "id": 11,
+                    "q": "Theo quyết định năm 1966 của Tổng cục Thống kê, ngành công nghiệp được định nghĩa như thế nào?",
+                    "o": [
+                        "Ngành sản xuất hàng tiêu dùng.",
+                        "Ngành cung cấp dịch vụ sửa chữa.",
+                        "Ngành sản xuất vật chất, gồm khai thác, chế biến và sửa chữa sản phẩm.",
+                        "Ngành cung cấp nguyên liệu tự nhiên."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 12,
+                    "q": "Ngành công nghiệp có năng suất lao động cao hơn các ngành khác vì lý do nào?",
+                    "o": [
+                        "Sử dụng lao động thủ công nhiều hơn các ngành khác.",
+                        "Giá sản phẩm luôn thấp hơn.",
+                        "Ứng dụng công nghệ tiên tiến và tổ chức sản xuất khoa học.",
+                        "Sử dụng nhiều lao động hơn các ngành khác."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 13,
+                    "q": "Sản phẩm công nghiệp có chức năng nào quan trọng đối với nền kinh tế?",
+                    "o": [
+                        "Là sản phẩm tiêu dùng chính.",
+                        "Là tư liệu sản xuất và thúc đẩy các ngành khác.",
+                        "Không có tác động rõ ràng.",
+                        "Chỉ là hàng hóa xuất khẩu."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 14,
+                    "q": "Ngành công nghiệp giúp định hướng tiêu dùng của con người bằng cách nào?",
+                    "o": [
+                        "Cung cấp các sản phẩm thiết yếu cho ngành nông nghiệp.",
+                        "Đáp ứng và thúc đẩy nhu cầu tiêu dùng bằng cách tạo ra các sản phẩm mới.",
+                        "Sản xuất sản phẩm xa xỉ.",
+                        "Không có đáp án nào chính xác."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 15,
+                    "q": "Quốc gia nào có ngành công nghiệp giải trí phát triển mạnh mẽ?",
+                    "o": [
+                        "Việt Nam.",
+                        "Ấn Độ, Hàn Quốc.",
+                        "Pháp, Hoa Kỳ.",
+                        "Hoa Kỳ, Ấn Độ, Trung Quốc, Hàn Quốc."
+                    ],
+                    "a": 3
+                },
+                {
+                    "id": 16,
+                    "q": "Nhận định nào dưới đây đúng (về ngành công nghiệp)?",
+                    "o": [
+                        "Chỉ khai thác tài nguyên thiên nhiên.",
+                        "Năng suất lao động cao hơn các ngành khác.",
+                        "Không cần sử dụng công nghệ.",
+                        "Phụ thuộc hoàn toàn vào xuất khẩu."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 17,
+                    "q": "Các ngành công nghiệp mới thường phát triển mạnh ở đâu?",
+                    "o": [
+                        "Các quốc gia kém phát triển.",
+                        "Các quốc gia phát triển hoặc đang phát triển mạnh.",
+                        "Khu vực chỉ có nông nghiệp.",
+                        "Vùng sâu vùng xa."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 18,
+                    "q": "Sản phẩm công nghiệp thường có đặc điểm gì?",
+                    "o": [
+                        "Giá cả thấp hơn nông nghiệp.",
+                        "Ổn định và đa dạng.",
+                        "Chỉ phục vụ xuất khẩu.",
+                        "Không đáp ứng nhu cầu thị trường."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 19,
+                    "q": "Tăng trưởng công nghiệp tác động thế nào đến năng suất lao động nông nghiệp?",
+                    "o": [
+                        "Không ảnh hưởng.",
+                        "Giúp nâng cao năng suất.",
+                        "Làm giảm năng suất.",
+                        "Tăng phụ thuộc vào công nghiệp."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 20,
+                    "q": "Ngành công nghiệp Việt Nam được phân loại theo tiêu chí nào?",
+                    "o": [
+                        "Địa lý và quy mô.",
+                        "Sản phẩm và ngành nghề.",
+                        "Quản lý, vốn và lao động.",
+                        "Tất cả các ý trên."
+                    ],
+                    "a": 3
+                },
+                {
+                    "id": 21,
+                    "q": "Theo VICS, nhóm ngành nào không thuộc ngành công nghiệp?",
+                    "o": [
+                        "Khai khoáng.",
+                        "Cung cấp nước và xử lý rác thải.",
+                        "Giáo dục và đào tạo.",
+                        "Chế biến, chế tạo."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 22,
+                    "q": "Tiêu chuẩn GICS được phát triển bởi tổ chức nào?",
+                    "o": [
+                        "Liên Hợp Quốc.",
+                        "Morgan Stanley Capital International và Standard & Poor's.",
+                        "Ngân hàng Thế giới.",
+                        "Quỹ Tiền tệ Quốc tế."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 23,
+                    "q": "Chuyên môn hóa trong sản xuất công nghiệp nhằm mục đích gì?",
+                    "o": [
+                        "Tăng sự đa dạng sản phẩm.",
+                        "Tập trung sản xuất vào một số sản phẩm phù hợp với thị trường.",
+                        "Phân tán các nguồn lực sản xuất.",
+                        "Tăng chi phí sản xuất."
+                    ],
+                    "a": 1
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "phần 5",
+            "questions": [
+                {
+                    "id": 1,
+                    "q": "Hình thức chuyên môn hóa sản phẩm phù hợp với loại sản phẩm nào?",
+                    "o": [
+                        "Sản phẩm phức tạp.",
+                        "Sản phẩm đơn giản về kết cấu và công nghệ chế tạo.",
+                        "Sản phẩm dịch vụ.",
+                        "Sản phẩm yêu cầu nhiều giai đoạn công nghệ."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 2,
+                    "q": "Lợi ích của chuyên môn hóa bộ phận và chi tiết sản phẩm là gì?",
+                    "o": [
+                        "Tăng chi phí vận chuyển.",
+                        "Giảm giá thành sản phẩm và khai thác lợi thế doanh nghiệp.",
+                        "Hạn chế số lượng doanh nghiệp tham gia.",
+                        "Tăng sự phụ thuộc vào thị trường nước ngoài."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 3,
+                    "q": "Chuyên môn hóa giai đoạn công nghệ chế tạo sản phẩm có điều kiện áp dụng nào?",
+                    "o": [
+                        "Công nghệ đơn giản, ít phức tạp.",
+                        "Chỉ cần một doanh nghiệp tham gia.",
+                        "Công nghệ chế tạo phức tạp và phân tách giai đoạn hợp lý.",
+                        "Phụ thuộc vào lao động thủ công."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 4,
+                    "q": "Đa dạng hóa theo bề rộng liên quan đến yếu tố nào?",
+                    "o": [
+                        "Sản xuất sản phẩm không có giá trị sử dụng.",
+                        "Chỉ tập trung vào sản phẩm chính.",
+                        "Sản xuất nhiều sản phẩm khác nhau để đáp ứng đồng bộ nhu cầu.",
+                        "Không thay đổi danh mục sản phẩm."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 5,
+                    "q": "Tập trung hóa sản xuất gắn liền với yếu tố nào?",
+                    "o": [
+                        "Sự phân tán của tư liệu sản xuất.",
+                        "Sự tập trung về lao động và tư liệu sản xuất vào tổ chức lớn.",
+                        "Giảm quy mô sản xuất của các tổ chức.",
+                        "Không áp dụng tiến bộ công nghệ."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 6,
+                    "q": "Đa dạng hóa kinh doanh là gì?",
+                    "o": [
+                        "Tập trung sản xuất vào một sản phẩm duy nhất.",
+                        "Loại bỏ tất cả các sản phẩm cũ.",
+                        "Mở rộng lĩnh vực và mặt hàng kinh doanh để đạt cơ cấu hợp lý.",
+                        "Chỉ thay đổi danh mục sản phẩm hiện có."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 7,
+                    "q": "Đa dạng hóa theo bề rộng liên quan đến yếu tố nào?",
+                    "o": [
+                        "Sản xuất sản phẩm không có giá trị sử dụng.",
+                        "Chỉ tập trung vào sản phẩm chính.",
+                        "Sản xuất nhiều sản phẩm khác nhau để đáp ứng đồng bộ nhu cầu.",
+                        "Không thay đổi danh mục sản phẩm."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 8,
+                    "q": "Tập trung hóa sản xuất gắn liền với yếu tố nào?",
+                    "o": [
+                        "Sự phân tán của tư liệu sản xuất.",
+                        "Sự tập trung về lao động và tư liệu sản xuất vào tổ chức lớn.",
+                        "Giảm quy mô sản xuất của các tổ chức.",
+                        "Không áp dụng tiến bộ công nghệ."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 9,
+                    "q": "Hình thức tập trung hóa theo chiều ngang là gì?",
+                    "o": [
+                        "Tập trung các doanh nghiệp thuộc các lĩnh vực khác nhau.",
+                        "Tập trung các doanh nghiệp trong cùng một lĩnh vực.",
+                        "Tập trung không liên quan đến lĩnh vực sản xuất.",
+                        "Tăng quy mô nhưng giảm lao động."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 10,
+                    "q": "Tập trung hóa theo chiều rộng đặc trưng bởi yếu tố nào?",
+                    "o": [
+                        "Đổi mới công nghệ sản xuất.",
+                        "Quy mô tăng mà không thay đổi trình độ công nghệ.",
+                        "Giảm đầu tư vào lao động và thiết bị.",
+                        "Tập trung các ngành không liên quan."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 11,
+                    "q": "Tại sao chính phủ cần kiểm soát mức độ tập trung hóa?",
+                    "o": [
+                        "Tăng lợi nhuận cho doanh nghiệp.",
+                        "Tránh hiện tượng độc quyền kinh tế làm giảm tính cạnh tranh.",
+                        "Loại bỏ sự hợp tác giữa các doanh nghiệp.",
+                        "Giảm tốc độ phát triển công nghiệp."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 12,
+                    "q": "Quyết định số ______ của Tổng cục thống kê năm 1966 là văn bản đầu tiên đưa ra khái niệm về ngành công nghiệp tại Việt Nam.",
+                    "o": [
+                        "386-TCTK/CN",
+                        "486-TCTK/CN",
+                        "586-TCTK/CN",
+                        "686-TCTK/CN"
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 13,
+                    "q": "Ngành công nghiệp bao gồm các hoạt động như khai thác, ______ và sửa chữa.",
+                    "o": [
+                        "Lưu trữ",
+                        "Phân phối",
+                        "Chế biến",
+                        "Vận chuyển"
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 14,
+                    "q": "Ngành công nghiệp được phân loại thành ______ hoạt động chính.",
+                    "o": [
+                        "Hai",
+                        "Bốn",
+                        "Năm",
+                        "Ba"
+                    ],
+                    "a": 3
+                },
+                {
+                    "id": 15,
+                    "q": "Công nghiệp được coi là ngành sản xuất chủ đạo vì có ______ cao hơn các ngành khác.",
+                    "o": [
+                        "Chi phí lao động",
+                        "Năng suất lao động",
+                        "Số lượng lao động",
+                        "Chi phí sản xuất"
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 16,
+                    "q": "Giá cả sản phẩm công nghiệp thường ______ và cao hơn so với các sản phẩm khác.",
+                    "o": [
+                        "Biến động mạnh",
+                        "Phụ thuộc",
+                        "Ổn định",
+                        "Không ổn định"
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 17,
+                    "q": "Công nghiệp cung cấp ______ cho các ngành kinh tế khác, thúc đẩy sự phát triển chung.",
+                    "o": [
+                        "Nhân lực",
+                        "Tư liệu sản xuất",
+                        "Công cụ hỗ trợ",
+                        "Thị trường"
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 18,
+                    "q": "Sản phẩm công nghiệp ngày càng phong phú hơn nhờ sự tăng trưởng của nền kinh tế và ______ của dân cư.",
+                    "o": [
+                        "Chi phí tiêu dùng",
+                        "Quy mô sản xuất",
+                        "Thu nhập",
+                        "Mức sống"
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 19,
+                    "q": "Ngành công nghiệp thời trang nổi bật ở các quốc gia như Pháp và ______.",
+                    "o": [
+                        "Đức",
+                        "Nhật Bản",
+                        "Ý",
+                        "Hàn Quốc"
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 20,
+                    "q": "Một số ngành công nghiệp mới như điện ảnh, thời trang được công nhận khi đạt đến ______ lớn.",
+                    "o": [
+                        "Tốc độ tăng trưởng",
+                        "Quy mô",
+                        "Số lượng lao động",
+                        "Thị phần"
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 21,
+                    "q": "Phát triển công nghiệp làm tăng năng suất lao động trong nông nghiệp, tạo điều kiện ______ lao động sang các ngành khác.",
+                    "o": [
+                        "Tăng cường",
+                        "Giảm thiểu",
+                        "Dịch chuyển",
+                        "Đào tạo"
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 22,
+                    "q": "Các khu công nghiệp mới và ngành dịch vụ liên quan tạo ra nhiều ______ cho xã hội.",
+                    "o": [
+                        "Thách thức",
+                        "Việc làm",
+                        "Đổi mới",
+                        "Khó khăn"
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 23,
+                    "q": "Công nghiệp giúp duy trì sản lượng nông nghiệp bằng cách tăng ______ trong sản xuất.",
+                    "o": [
+                        "Quy mô lao động",
+                        "Năng suất lao động",
+                        "Chất lượng sản phẩm",
+                        "Số lượng lao động"
+                    ],
+                    "a": 1
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "phần 6",
+            "questions": [
+                {
+                    "id": 1,
+                    "q": "Ngành công nghiệp hướng dẫn tiêu dùng và đáp ứng các nhu cầu ______ của con người.",
+                    "o": [
+                        "Đơn giản",
+                        "Mới mẻ",
+                        "Giảm dần",
+                        "Cơ bản"
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 2,
+                    "q": "Đổi mới và ứng dụng ______ là yếu tố quan trọng thúc đẩy sự phát triển của ngành công nghiệp.",
+                    "o": [
+                        "Chính sách đầu tư",
+                        "Mạng lưới quản lý",
+                        "Công nghệ tiên tiến",
+                        "Hệ thống vận hành"
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 3,
+                    "q": "Ngành công nghiệp có vai trò nền tảng trong việc tạo ra ______ vật chất kỹ thuật cho nền kinh tế.",
+                    "o": [
+                        "Thách thức",
+                        "Cơ sở",
+                        "Rào cản",
+                        "Quy định"
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 4,
+                    "q": "Phát triển công nghiệp đúng hướng là yếu tố then chốt để thúc đẩy sự bứt phá của các ngành ______.",
+                    "o": [
+                        "Giáo dục và y tế",
+                        "Nông nghiệp và dịch vụ",
+                        "Xây dựng và thương mại",
+                        "Công nghệ và tài chính"
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 5,
+                    "q": "Doanh nghiệp được hiểu như thế nào theo quan điểm lợi nhuận?",
+                    "o": [
+                        "Một đơn vị sản xuất kinh doanh nhằm thực hiện các công đoạn trong đầu tư.",
+                        "Một tổ chức sản xuất kết hợp các yếu tố sản xuất để tạo ra lợi nhuận.",
+                        "Một tổ chức kinh tế cung ứng sản phẩm và dịch vụ.",
+                        "Một đơn vị thực hiện tối đa hóa lợi ích xã hội."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 6,
+                    "q": "Đặc điểm nào là đặc trưng của sản xuất công nghiệp?",
+                    "o": [
+                        "Thay đổi hình dáng, kích thước và tính chất của nguyên liệu.",
+                        "Không phụ thuộc vào điều kiện tự nhiên.",
+                        "Sử dụng tư liệu lao động thủ công là chính.",
+                        "Không tạo ra sản phẩm có giá trị kinh tế cao."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 7,
+                    "q": "Đặc trưng về đội ngũ lao động trong ngành công nghiệp là gì?",
+                    "o": [
+                        "Lao động thủ công với tay nghề cao.",
+                        "Tư duy, tác phong và kỷ luật cao.",
+                        "Chỉ làm việc trong lĩnh vực khai thác tài nguyên.",
+                        "Phụ thuộc nhiều vào điều kiện tự nhiên."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 8,
+                    "q": "Tại sao sản xuất công nghiệp có trình độ xã hội hóa cao?",
+                    "o": [
+                        "Do lao động tập trung tại một nơi.",
+                        "Do sản phẩm là kết tinh lao động của nhiều đơn vị khác nhau.",
+                        "Do sản phẩm không phụ thuộc vào thị trường.",
+                        "Do sử dụng ít tài nguyên thiên nhiên."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 9,
+                    "q": "Điểm đặc biệt của các ngành công nghiệp khai thác là gì?",
+                    "o": [
+                        "Không chịu ảnh hưởng của điều kiện tự nhiên.",
+                        "Tạo ra nhiều loại tư liệu lao động.",
+                        "Chịu ảnh hưởng lớn từ điều kiện tự nhiên.",
+                        "Không đóng vai trò trong tổng cầu xã hội."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 10,
+                    "q": "Doanh nghiệp công nghiệp đóng vai trò gì trong nền kinh tế?",
+                    "o": [
+                        "Là tế bào của nền kinh tế quốc dân.",
+                        "Chỉ tạo ra sản phẩm tiêu dùng hàng ngày.",
+                        "Không ảnh hưởng đến tổng cung của xã hội.",
+                        "Làm giảm mức độ xã hội hóa sản xuất."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 11,
+                    "q": "Mức độ ảnh hưởng của điều kiện tự nhiên trong công nghiệp chế biến là gì?",
+                    "o": [
+                        "Ít hơn so với công nghiệp khai thác.",
+                        "Bằng với công nghiệp khai thác.",
+                        "Nhiều hơn so với công nghiệp khai thác.",
+                        "Không chịu bất kỳ ảnh hưởng nào."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 12,
+                    "q": "Vì sao quản lý công nghiệp ngày càng trở nên khoa học?",
+                    "o": [
+                        "Do lao động giản đơn và không có thay đổi.",
+                        "Không chịu ảnh hưởng của tiến bộ khoa học công nghệ.",
+                        "Nhờ ứng dụng các thành tựu mới của khoa học công nghệ.",
+                        "Do sử dụng ít phương pháp sản xuất hiện đại."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 13,
+                    "q": "Đặc điểm nào phản ánh đúng về sản xuất công nghiệp?",
+                    "o": [
+                        "Chỉ sử dụng lao động thủ công.",
+                        "Sản xuất đa dạng các sản phẩm có giá trị sử dụng khác nhau.",
+                        "Chỉ phụ thuộc vào một nguồn nguyên liệu duy nhất.",
+                        "Không liên quan đến các phương pháp hóa học."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 14,
+                    "q": "Môi trường của doanh nghiệp công nghiệp bao gồm những yếu tố nào?",
+                    "o": [
+                        "Chỉ có môi trường tự nhiên.",
+                        "Môi trường bên trong và môi trường bên ngoài.",
+                        "Chỉ tập trung vào khách hàng và nhà cung cấp.",
+                        "Bao gồm đối thủ cạnh tranh và sản phẩm thay thế."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 15,
+                    "q": "Yếu tố nào thuộc môi trường kinh tế?",
+                    "o": [
+                        "Lãi suất và mức độ lạm phát.",
+                        "Phong tục tập quán.",
+                        "Hệ thống pháp luật.",
+                        "Mức độ khan hiếm tài nguyên thiên nhiên."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 16,
+                    "q": "Đâu không phải là yếu tố của môi trường văn hóa - xã hội?",
+                    "o": [
+                        "Quan điểm về đạo đức và thẩm mỹ.",
+                        "Mức lãi suất thị trường.",
+                        "Truyền thống và phong tục tập quán.",
+                        "Trình độ nhận thức và học vấn chung."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 17,
+                    "q": "Môi trường chính trị - pháp luật tác động đến tổ chức qua yếu tố nào?",
+                    "o": [
+                        "Các chính sách và luật pháp hiện hành.",
+                        "Xu hướng phát triển công nghệ.",
+                        "Tình trạng khan hiếm tài nguyên.",
+                        "Đặc điểm đạo đức xã hội."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 18,
+                    "q": "Môi trường tự nhiên bao gồm yếu tố nào?",
+                    "o": [
+                        "Chính sách phát triển.",
+                        "Tài nguyên thiên nhiên như dầu mỏ, khí đốt.",
+                        "Hệ thống giáo dục.",
+                        "Đạo đức nghề nghiệp."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 19,
+                    "q": "Mức độ phát triển của công nghệ quyết định điều gì?",
+                    "o": [
+                        "Phạm vi sản phẩm và dịch vụ được tạo ra.",
+                        "Truyền thống xã hội.",
+                        "Mức độ khan hiếm tài nguyên.",
+                        "Xu hướng của thị trường tài chính."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 20,
+                    "q": "Doanh nghiệp là đơn vị kinh tế có ______ pháp nhân, quy tụ các phương tiện tài chính, vật chất và con người.",
+                    "o": [
+                        "năng lực",
+                        "tư cách",
+                        "quyền lực",
+                        "khả năng"
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 21,
+                    "q": "Mục tiêu của doanh nghiệp công nghiệp là cung cấp sản phẩm công nghiệp cho nhu cầu ______ và tiêu dùng của xã hội.",
+                    "o": [
+                        "phát triển",
+                        "thương mại",
+                        "sản xuất",
+                        "nghiên cứu"
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 22,
+                    "q": "Trong quá trình sản xuất công nghiệp, nguyên liệu có thể thay đổi về hình dáng, ______ và tính chất.",
+                    "o": [
+                        "chức năng",
+                        "kích thước",
+                        "hiệu quả",
+                        "trọng lượng"
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 23,
+                    "q": "Từ một loại nguyên liệu trong công nghiệp, có thể tạo ra nhiều loại sản phẩm với ______ khác nhau.",
+                    "o": [
+                        "mẫu mã",
+                        "giá trị sử dụng",
+                        "thương hiệu",
+                        "chi phí"
+                    ],
+                    "a": 1
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "phần 7",
+            "questions": [
+                {
+                    "id": 1,
+                    "q": "Công nghiệp là ngành có trình độ ______ sản xuất cao, với sự tham gia của nhiều đơn vị ở các địa điểm khác nhau.",
+                    "o": [
+                        "xã hội hóa",
+                        "hiện đại hóa",
+                        "công nghiệp hóa",
+                        "đô thị hóa"
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 2,
+                    "q": "Sản phẩm công nghiệp thường là kết tinh của lao động từ các đơn vị thuộc cùng một tổ chức hoặc các tổ chức khác nhau, kể cả ở các ______ khác nhau.",
+                    "o": [
+                        "lĩnh vực",
+                        "thành phố",
+                        "quốc gia",
+                        "quốc gia"
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 3,
+                    "q": "Đội ngũ lao động công nghiệp có tư duy, tác phong và ______ cao, phù hợp với phương thức sản xuất mới.",
+                    "o": [
+                        "sáng tạo",
+                        "kỷ luật",
+                        "cởi mở",
+                        "linh hoạt"
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 4,
+                    "q": "Quản lý sản xuất công nghiệp được thực hiện chặt chẽ và khoa học, gắn liền với các thành tựu của ______ công nghệ.",
+                    "o": [
+                        "vật lý",
+                        "hóa học",
+                        "khoa học",
+                        "kinh tế"
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 5,
+                    "q": "Doanh nghiệp công nghiệp góp phần tăng tổng cung, đáp ứng tổng cầu và thúc đẩy quá trình ______ hóa nền kinh tế.",
+                    "o": [
+                        "toàn cầu",
+                        "hiện đại",
+                        "tự động",
+                        "hiện đại"
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 6,
+                    "q": "Các doanh nghiệp công nghiệp sử dụng máy móc thiết bị để khai thác và ______ nguyên vật liệu thành sản phẩm hoàn chỉnh.",
+                    "o": [
+                        "chế biến",
+                        "bảo quản",
+                        "vận chuyển",
+                        "gia công"
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 7,
+                    "q": "Sản phẩm công nghiệp có thể phục vụ cho sản xuất hoặc ______ của người dân.",
+                    "o": [
+                        "giáo dục",
+                        "xuất khẩu",
+                        "nghiên cứu",
+                        "sinh hoạt"
+                    ],
+                    "a": 3
+                },
+                {
+                    "id": 8,
+                    "q": "Quản lý công nghiệp ngày càng được hoàn thiện để thích ứng với trình độ công nghệ và sự phân công ______ ngày càng sâu sắc.",
+                    "o": [
+                        "sản xuất",
+                        "khoa học",
+                        "lao động",
+                        "quản lý"
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 9,
+                    "q": "Điền vào chỗ trống “ Hoạt động quản trị chịu sự tác động của …. đang biến động không ngừng”",
+                    "o": [
+                        "Công nghệ",
+                        "Môi trường",
+                        "Kỹ thuật",
+                        "Kinh tế"
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 10,
+                    "q": "Trong 3 kỹ năng có ảnh hưởng đến sự phát triển nghề nghiệp của nhà quản trị, kỹ năng khó tiếp thu nhất là",
+                    "o": [
+                        "kỹ năng kỹ thuật.",
+                        "kỹ năng giao tiếp.",
+                        "kỹ năng tư duy.",
+                        "kỹ năng mềm."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 11,
+                    "q": "Quản trị cần thiết cho",
+                    "o": [
+                        "các tổ chức vì lợi nhuận và tổ chức phi lợi nhuận.",
+                        "các doanh nghiệp hoạt động sản xuất kinh doanh.",
+                        "các đơn vị hành chính sự nghiệp.",
+                        "các công ty lớn."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 12,
+                    "q": "Điền vào chỗ trống “ Nhà quản trị cấp thấp thì kỹ năng ….. càng quan trọng”.",
+                    "o": [
+                        "nhân sự",
+                        "chuyên môn",
+                        "tư duy",
+                        "giao tiếp"
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 13,
+                    "q": "Kỹ năng nào cần thiết ở mức độ như nhau đối với các nhà quản trị?",
+                    "o": [
+                        "Tư duy.",
+                        "Kỹ thuật.",
+                        "Chuyên môn.",
+                        "Giao tiếp."
+                    ],
+                    "a": 3
+                },
+                {
+                    "id": 14,
+                    "q": "Điền vào chỗ trống “… là khả năng hiểu rõ mức độ phức tạp của môi trường và biết cách giảm thiểu sự phức tạp của môi trường xuống một mức có thể đối phó được”",
+                    "o": [
+                        "Kỹ năng tư duy",
+                        "Kỹ năng giao tiếp",
+                        "Kỹ năng chuyên môn",
+                        "Kỹ năng quan hệ con người"
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 15,
+                    "q": "Trong 1 tổ chức, các cấp bậc quản trị thường được chia thành",
+                    "o": [
+                        "2 cấp quản trị.",
+                        "3 cấp quản trị.",
+                        "4 cấp quản trị.",
+                        "5 cấp quản trị."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 16,
+                    "q": "Quản trị viên cấp trung thường tập trung vào việc ra các loại quyết định",
+                    "o": [
+                        "chiến lược.",
+                        "chiến thuật.",
+                        "tác nghiệp.",
+                        "tất cả các loại quyết định."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 17,
+                    "q": "Nhà quản trị cấp cao cần thiết nhất kỹ năng",
+                    "o": [
+                        "nhân sự.",
+                        "tư duy.",
+                        "kỹ thuật.",
+                        "tư duy."
+                    ],
+                    "a": 1
+                },
+                {
+                    "id": 18,
+                    "q": "Hoạt động quản trị cần thiết vì",
+                    "o": [
+                        "thể hiện người quản trị cấp cao là quan trọng nhất",
+                        "thể hiện người điều hành cấp thấp luôn có năng lực kém hơn người điều hành cấp cao",
+                        "cho thấy sự phân chia cấp bậc rõ ràng",
+                        "mang lại hiệu quả hơn cho công việc"
+                    ],
+                    "a": 3
+                },
+                {
+                    "id": 19,
+                    "q": "Nhà quản trị thực hiện vai trò gì khi tuyển dụng nhân viên mới?",
+                    "o": [
+                        "Vai trò nhà kinh doanh.",
+                        "Vai trò người giải quyết xáo trộn.",
+                        "Vai trò người thương thuyết.",
+                        "Vai trò người lãnh đạo."
+                    ],
+                    "a": 3
+                },
+                {
+                    "id": 20,
+                    "q": "Nhà quản trị thực hiện vai trò gì khi áp dụng phương pháp quản lý sản xuất tiên tiến trong doanh nghiệp?",
+                    "o": [
+                        "Vai trò doanh nhân.",
+                        "Vai trò người giải quyết xáo trộn.",
+                        "Vai trò người thương thuyết.",
+                        "Vai trò người lãnh đạo."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 21,
+                    "q": "Mục tiêu của quản trị trong 1 tổ chức là",
+                    "o": [
+                        "đạt được hiệu quả và hiệu suất cao.",
+                        "sử dụng hợp lý các nguồn lực hiện có.",
+                        "tìm kiếm lợi nhuận.",
+                        "tạo sự ổn định để phát triển."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 22,
+                    "q": "Phát biểu nào sau đây là sai?",
+                    "o": [
+                        "Quản trị cần thiết đối với bệnh viện.",
+                        "Quản trị cần thiết đối với trường đại học.",
+                        "Quản trị chỉ cần thiết đối với tổ chức có quy mô lớn.",
+                        "Quản trị cần thiết đối với doanh nghiệp."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 23,
+                    "q": "Nhà quản trị cấp cơ sở cần thiết nhất",
+                    "o": [
+                        "Kỹ năng giao tiếp.",
+                        "Kỹ năng giao tiếp và kỹ năng chuyên môn.",
+                        "Kỹ năng chuyên môn.",
+                        "Kỹ năng chuyên môn và kỹ năng tư duy."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 24,
+                    "q": "Nhà quản trị trong tổ chức bao gồm",
+                    "o": [
+                        "quản trị viên cấp cao, quản trị viên cấp trung và quản trị viên cấp cơ sở.",
+                        "quản trị viên cấp cao, quản trị viên cấp cơ sở và nhân viên thừa hành.",
+                        "quản trị viên chiến lược, quản trị viên cấp trung và quản trị viên cấp cơ sở.",
+                        "quản trị viên cấp cao, quản trị viên cấp trung và quản trị viên tác nghiệp."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 25,
+                    "q": "Cố vấn cho ban giám đốc của 1 doanh nghiệp thuộc cấp quản trị",
+                    "o": [
+                        "cấp cao",
+                        "cấp trung",
+                        "cấp cơ sở",
+                        "Tất cả đều sai"
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 26,
+                    "q": "Quản trị viên cấp cao trong doanh nghiệp cần thực hiện nhiệm vụ gì?",
+                    "o": [
+                        "Xây dựng chiến lược cho doanh nghiệp.",
+                        "Xây dựng kế hoạch hành động và phát triển doanh nghiệp.",
+                        "Duy trì và phát triển vị thế của doanh nghiệp.",
+                        "Tất cả đều đúng."
+                    ],
+                    "a": 0
+                },
+                {
+                    "id": 27,
+                    "q": "Ai trong doanh nghiệp cần thực hiện nhiệm vụ đốc thúc, hướng dẫn, điều khiển các công nhân viên trong các hoạt động sản xuất kinh doanh cụ thể hàng ngày?",
+                    "o": [
+                        "Nhà quản trị cấp cao.",
+                        "Nhà quản trị cấp trung.",
+                        "Nhà quản trị cấp cơ sở.",
+                        "Tất cả đều sai."
+                    ],
+                    "a": 2
+                },
+                {
+                    "id": 28,
+                    "q": "Vai trò quyết định của nhà quản trị được thể hiện qua",
+                    "o": [
+                        "Vai trò doanh nhân.",
+                        "Vai trò giải quyết vấn đề.",
+                        "Vai trò đàm phán.",
+                        "Tất cả đều đúng."
+                    ],
+                    "a": 3
+                },
+                {
+                    "id": 29,
+                    "q": "Vai trò quan hệ con người của nhà quản trị được thể hiện qua",
+                    "o": [
+                        "Vai trò đại diện.",
+                        "Vai trò lãnh đạo.",
+                        "Vai trò liên lạc.",
+                        "Tất cả đều đúng."
+                    ],
+                    "a": 3
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "phần 8 chua check dap an",
+            "questions": [{
+                "id": 1,
+                "q": "Khả năng cần thiết để thực hiện một công việc cụ thể bao hàm sự hiểu biết và thành thạo về hoạt động có liên quan đến các phương pháp, các chu trình, các thủ tục hay kỹ thuật… Nội dung này thuộc kỹ năng gì?",
+                "o": [
+                  "Kỹ năng giao tiếp.",
+                  "Kỹ năng chuyên môn.",
+                  "Kỹ năng tư duy.",
+                  "Tất cả đều sai."
+                ],
+                "a": 1
+              },
+              {
+                "id": 2,
+                "q": "Khả năng của nhà quản trị có thể điều hành một cách có hiệu quả với tư cách là một thành viên của nhóm và động viên cố gắng hợp tác trong nhóm mà nhà quản trị phụ trách và lãnh đạo. Nội dung này thuộc kỹ năng gì?",
+                "o": [
+                  "Kỹ năng quan hệ con người.",
+                  "Kỹ năng chuyên môn.",
+                  "Kỹ năng tư duy.",
+                  "Tất cả đều sai."
+                ],
+                "a": 0
+              },
+              {
+                "id": 3,
+                "q": "Câu nào dưới đây thể hiện được quan hệ giữa cấp bậc quản trị và các kỹ năng?",
+                "o": [
+                  "Chức vụ càng thấp thì kĩ năng về kỹ thuật càng quan trọng.",
+                  "Chức vụ càng cao thì kỹ năng về tư duy càng quan trọng.",
+                  "Nhà quản trị cần tất cả các kỹ năng, tuy nhiên chức vụ càng cao thì kỹ năng tư duy càng quan trọng.",
+                  "Tất cả những tuyên bố nêu trên đều sai."
+                ],
+                "a": 2
+              },
+              {
+                "id": 4,
+                "q": "Nhà quản trị có nhiệm vụ thường xuyên xem xét, phân tích bối cảnh xung quanh tổ chức để thu thập những tin tức, sự kiện có ảnh hưởng tới các hoạt động của doanh nghiệp. Điều này thể hiện vai trò gì của nhà quản trị?",
+                "o": [
+                  "Vai trò thu thập và tiếp nhận các thông tin.",
+                  "Vai trò phổ biến thông tin, người truyền đạt.",
+                  "Vai trò cung cấp thông tin, người phát ngôn.",
+                  "Vai trò lắng nghe."
+                ],
+                "a": 0
+              },
+              {
+                "id": 5,
+                "q": "Nhà quản trị thực hiện vai trò gì khi đưa ra quyết định áp dụng công nghệ mới vào sản xuất?",
+                "o": [
+                  "Vai trò người thực hiện.",
+                  "Vai trò người đại diện.",
+                  "Vai trò người phân bổ tài nguyên.",
+                  "Vai trò nhà kinh doanh."
+                ],
+                "a": 3
+              },
+              {
+                "id": 6,
+                "q": "Trong quản trị doanh nghiệp, quan trọng nhất là",
+                "o": [
+                  "xác định đúng chiến lược phát triển của doanh nghiệp.",
+                  "xác định đúng lĩnh vực hoạt động của tổ chức.",
+                  "xác định đúng quy mô của tổ chức.",
+                  "xác định đúng trình độ và số lượng đội ngũ nhân viên."
+                ],
+                "a": 0
+              },
+              {
+                "id": 7,
+                "q": "Nhà quản trị thực hiện vai trò gì khi giải quyết vấn đề bãi công xảy ra trong doanh nghiệp?",
+                "o": [
+                  "Vai trò nhà kinh doanh.",
+                  "Vai trò người giải quyết xáo trộn.",
+                  "Vai trò người thương thuyết.",
+                  "Vai trò người lãnh đạo."
+                ],
+                "a": 1
+              },
+              {
+                "id": 8,
+                "q": "Nhà quản trị thể hiện vai trò gì khi đàm phán với đối tác về việc tăng đơn giá gia công trong quá trình thảo luận hợp đồng?",
+                "o": [
+                  "Vai trò người liên lạc.",
+                  "Vai trò người thương thuyết.",
+                  "Vai trò người lãnh đạo.",
+                  "Vai trò người đại diện."
+                ],
+                "a": 1
+              },
+              {
+                "id": 9,
+                "q": "Nghiên cứu của Henry Minzberg đã nhận dạng 10 vai trò của nhà quản trị và phân loại thành 3 nhóm vai trò, đó là",
+                "o": [
+                  "nhóm vai trò lãnh đạo, vai trò thông tin và vai trò ra quyết định.",
+                  "nhóm vai trò tương quan nhân sự, vai trò xử lý các xung đột và vai trò ra quyết định.",
+                  "nhóm vai trò quan hệ với con người, vai trò thông tin và vai trò quyết định.",
+                  "nhóm vai trò liên lạc, vai trò phân phối tài nguyên và vai trò thương thuyết."
+                ],
+                "a": 2
+              },
+              {
+                "id": 10,
+                "q": "Điền vào chỗ trống “……là một quá trình xác định các mục tiêu trong tương lai của tổ chức và lựa chọn các phương thức hành động để đạt được các mục tiêu đó”",
+                "o": [
+                  "Lập kế hoạch",
+                  "Tổ chức",
+                  "Lãnh đạo",
+                  "Kiểm tra"
+                ],
+                "a": 0
+              },
+              {
+                "id": 11,
+                "q": "Loại kế hoạch nào dưới đây không phải loại kế hoạch phân theo thời gian thực hiện?",
+                "o": [
+                  "Kế hoạch dài hạn.",
+                  "Kế hoạch trung hạn.",
+                  "Kế hoạch ngắn hạn.",
+                  "Kế hoạch chiến lược."
+                ],
+                "a": 3
+              },
+              {
+                "id": 12,
+                "q": "Vai trò nào dưới đây không phải là vai trò của lập kế hoạch?",
+                "o": [
+                  "Giúp đạt được các mục tiêu của tổ chức.",
+                  "Giảm thiểu rủi ro và sự không chắc chắn.",
+                  "Giúp cho việc kiểm tra được dễ dàng.",
+                  "Làm rõ thẩm quyền."
+                ],
+                "a": 3
+              },
+              {
+                "id": 13,
+                "q": "Điền vào chỗ trống “……thiết kế một cấu trúc tổ chức hiệu quả nhằm đảm bảo cho các hoạt động quản trị đạt được mục tiêu của nó”",
+                "o": [
+                  "Lập kế hoạch",
+                  "Tổ chức",
+                  "Lãnh đạo",
+                  "Kiểm tra"
+                ],
+                "a": 1
+              },
+              {
+                "id": 14,
+                "q": "Đâu không phải là vai trò của chức năng tổ chức?",
+                "o": [
+                  "Phân công việc được xác định rõ ràng.",
+                  "Thúc đẩy sự chuyên môn hóa.",
+                  "Duy trì kỷ luật, kỷ cương nhằm ổn định tổ chức.",
+                  "Tăng cường sự phối hợp giữa các bộ phận."
+                ],
+                "a": 2
+              },
+              {
+                "id": 15,
+                "q": "Câu nói 'Hãy cùng nhau giải quyết vấn đề này…' thuộc phong cách lãnh đạo nào?",
+                "o": [
+                  "Phong cách lãnh đạo dân chủ.",
+                  "Phong cách lãnh đạo chuyên quyền, độc đoán.",
+                  "Phong cách lãnh đạo tự do.",
+                  "Tất cả đều đúng."
+                ],
+                "a": 0
+              },
+              {
+                "id": 16,
+                "q": "Câu nói 'Tôi muốn bạn phải……' thuộc phong cách lãnh đạo nào?",
+                "o": [
+                  "Phong cách lãnh đạo dân chủ.",
+                  "Phong cách lãnh đạo chuyên quyền, độc đoán.",
+                  "Phong cách lãnh đạo tự do.",
+                  "Tất cả đều đúng."
+                ],
+                "a": 1
+              },
+              {
+                "id": 17,
+                "q": "Lập kế hoạch chiến lược do cấp quản trị nào quyết định?",
+                "o": [
+                  "Quản trị viên cấp cao.",
+                  "Quản trị viên cấp trung.",
+                  "Quản trị viên cấp cơ sở.",
+                  "Tất cả đều đúng."
+                ],
+                "a": 0
+              },
+              {
+                "id": 18,
+                "q": "Loại kế hoạch nào có mục tiêu thường cô đọng, tổng thể, mang tính định hướng?",
+                "o": [
+                  "Kế hoạch tác nghiệp.",
+                  "Kế hoạch chiến lược.",
+                  "Cả A và B.",
+                  "Tất cả đều sai."
+                ],
+                "a": 1
+              },
+              {
+                "id": 19,
+                "q": "“Nhu cầu được thể hiện mình” thuộc nhu cầu mấy trong tháp nhu cầu Maslow?",
+                "o": [
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+                ],
+                "a": 3
+              },
+              {
+                "id": 20,
+                "q": "Nội dung “Xây dựng nhóm làm việc” thuộc chức năng nào?",
+                "o": [
+                  "Lập kế hoạch.",
+                  "Tổ chức.",
+                  "Lãnh đạo.",
+                  "Kiểm tra."
+                ],
+                "a": 1
+              },
+              {
+                "id": 21,
+                "q": "Các nhu cầu ở đáy thang bậc Maslow đặt cơ sở trên các thôi thúc vật lý và bao gồm nhu cầu thực phẩm, nước uống, giấc ngủ… Các nhu cầu này được hiểu là",
+                "o": [
+                  "nhu cầu an toàn và con người thường tìm cách thoả mãn nhu cầu này sau khi các nhu cầu khác đã được đáp ứng.",
+                  "nhu cầu an toàn và con người thường tìm cách thoả mãn nhu cầu này trước tiên.",
+                  "nhu cầu sinh lý học và con người thường tìm cách thoả mãn nhu cầu này sau khi các nhu cầu khác đã được đáp ứng.",
+                  "nhu cầu sinh lý học và con người thường tìm cách thoả mãn nhu cầu này trước tiên."
+                ],
+                "a": 3
+              },
+              {
+                "id": 22,
+                "q": "Đâu không phải là các bước trong quy trình kiểm tra?",
+                "o": [
+                  "Thiết lập tiêu chuẩn kiểm tra.",
+                  "Đo lường thành quả.",
+                  "Điều chỉnh các sai lệch.",
+                  "Đánh giá kiểm tra."
+                ],
+                "a": 3
+              }]
+        },
+        {
+            "id": 2,
+            "title": "phần 9 chua check dap an",
+            "questions": [{
+                "id": 1,
+                "q": "Khả năng cần thiết để thực hiện một công việc cụ thể bao hàm sự hiểu biết và thành thạo về hoạt động có liên quan đến các phương pháp, các chu trình, các thủ tục hay kỹ thuật… Nội dung này thuộc kỹ năng gì?",
+                "o": [
+                  "Kỹ năng giao tiếp.",
+                  "Kỹ năng chuyên môn.",
+                  "Kỹ năng tư duy.",
+                  "Tất cả đều sai."
+                ],
+                "a": 1
+              },
+              {
+                "id": 2,
+                "q": "Khả năng của nhà quản trị có thể điều hành một cách có hiệu quả với tư cách là một thành viên của nhóm và động viên cố gắng hợp tác trong nhóm mà nhà quản trị phụ trách và lãnh đạo. Nội dung này thuộc kỹ năng gì?",
+                "o": [
+                  "Kỹ năng quan hệ con người.",
+                  "Kỹ năng chuyên môn.",
+                  "Kỹ năng tư duy.",
+                  "Tất cả đều sai."
+                ],
+                "a": 0
+              },
+              {
+                "id": 3,
+                "q": "Câu nào dưới đây thể hiện được quan hệ giữa cấp bậc quản trị và các kỹ năng?",
+                "o": [
+                  "Chức vụ càng thấp thì kĩ năng về kỹ thuật càng quan trọng.",
+                  "Chức vụ càng cao thì kỹ năng về tư duy càng quan trọng.",
+                  "Nhà quản trị cần tất cả các kỹ năng, tuy nhiên chức vụ càng cao thì kỹ năng tư duy càng quan trọng.",
+                  "Tất cả những tuyên bố nêu trên đều sai."
+                ],
+                "a": 2
+              },
+              {
+                "id": 4,
+                "q": "Nhà quản trị có nhiệm vụ thường xuyên xem xét, phân tích bối cảnh xung quanh tổ chức để thu thập những tin tức, sự kiện có ảnh hưởng tới các hoạt động của doanh nghiệp. Điều này thể hiện vai trò gì của nhà quản trị?",
+                "o": [
+                  "Vai trò thu thập và tiếp nhận các thông tin.",
+                  "Vai trò phổ biến thông tin, người truyền đạt.",
+                  "Vai trò cung cấp thông tin, người phát ngôn.",
+                  "Vai trò lắng nghe."
+                ],
+                "a": 0
+              },
+              {
+                "id": 5,
+                "q": "Nhà quản trị thực hiện vai trò gì khi đưa ra quyết định áp dụng công nghệ mới vào sản xuất?",
+                "o": [
+                  "Vai trò người thực hiện.",
+                  "Vai trò người đại diện.",
+                  "Vai trò người phân bổ tài nguyên.",
+                  "Vai trò nhà kinh doanh."
+                ],
+                "a": 3
+              },
+              {
+                "id": 6,
+                "q": "Trong quản trị doanh nghiệp, quan trọng nhất là",
+                "o": [
+                  "xác định đúng chiến lược phát triển của doanh nghiệp.",
+                  "xác định đúng lĩnh vực hoạt động của tổ chức.",
+                  "xác định đúng quy mô của tổ chức.",
+                  "xác định đúng trình độ và số lượng đội ngũ nhân viên."
+                ],
+                "a": 0
+              },
+              {
+                "id": 7,
+                "q": "Nhà quản trị thực hiện vai trò gì khi giải quyết vấn đề bãi công xảy ra trong doanh nghiệp?",
+                "o": [
+                  "Vai trò nhà kinh doanh.",
+                  "Vai trò người giải quyết xáo trộn.",
+                  "Vai trò người thương thuyết.",
+                  "Vai trò người lãnh đạo."
+                ],
+                "a": 1
+              },
+              {
+                "id": 8,
+                "q": "Nhà quản trị thể hiện vai trò gì khi đàm phán với đối tác về việc tăng đơn giá gia công trong quá trình thảo luận hợp đồng?",
+                "o": [
+                  "Vai trò người liên lạc.",
+                  "Vai trò người thương thuyết.",
+                  "Vai trò người lãnh đạo.",
+                  "Vai trò người đại diện."
+                ],
+                "a": 1
+              },
+              {
+                "id": 9,
+                "q": "Nghiên cứu của Henry Minzberg đã nhận dạng 10 vai trò của nhà quản trị và phân loại thành 3 nhóm vai trò, đó là",
+                "o": [
+                  "nhóm vai trò lãnh đạo, vai trò thông tin và vai trò ra quyết định.",
+                  "nhóm vai trò tương quan nhân sự, vai trò xử lý các xung đột và vai trò ra quyết định.",
+                  "nhóm vai trò quan hệ với con người, vai trò thông tin và vai trò quyết định.",
+                  "nhóm vai trò liên lạc, vai trò phân phối tài nguyên và vai trò thương thuyết."
+                ],
+                "a": 2
+              },
+              {
+                "id": 10,
+                "q": "Điền vào chỗ trống “……là một quá trình xác định các mục tiêu trong tương lai của tổ chức và lựa chọn các phương thức hành động để đạt được các mục tiêu đó”",
+                "o": [
+                  "Lập kế hoạch",
+                  "Tổ chức",
+                  "Lãnh đạo",
+                  "Kiểm tra"
+                ],
+                "a": 0
+              },
+              {
+                "id": 11,
+                "q": "Loại kế hoạch nào dưới đây không phải loại kế hoạch phân theo thời gian thực hiện?",
+                "o": [
+                  "Kế hoạch dài hạn.",
+                  "Kế hoạch trung hạn.",
+                  "Kế hoạch ngắn hạn.",
+                  "Kế hoạch chiến lược."
+                ],
+                "a": 3
+              },
+              {
+                "id": 12,
+                "q": "Vai trò nào dưới đây không phải là vai trò của lập kế hoạch?",
+                "o": [
+                  "Giúp đạt được các mục tiêu của tổ chức.",
+                  "Giảm thiểu rủi ro và sự không chắc chắn.",
+                  "Giúp cho việc kiểm tra được dễ dàng.",
+                  "Làm rõ thẩm quyền."
+                ],
+                "a": 3
+              },
+              {
+                "id": 13,
+                "q": "Điền vào chỗ trống “……thiết kế một cấu trúc tổ chức hiệu quả nhằm đảm bảo cho các hoạt động quản trị đạt được mục tiêu của nó”",
+                "o": [
+                  "Lập kế hoạch",
+                  "Tổ chức",
+                  "Lãnh đạo",
+                  "Kiểm tra"
+                ],
+                "a": 1
+              },
+              {
+                "id": 14,
+                "q": "Đâu không phải là vai trò của chức năng tổ chức?",
+                "o": [
+                  "Phân công việc được xác định rõ ràng.",
+                  "Thúc đẩy sự chuyên môn hóa.",
+                  "Duy trì kỷ luật, kỷ cương nhằm ổn định tổ chức.",
+                  "Tăng cường sự phối hợp giữa các bộ phận."
+                ],
+                "a": 2
+              },
+              {
+                "id": 15,
+                "q": "Câu nói 'Hãy cùng nhau giải quyết vấn đề này…' thuộc phong cách lãnh đạo nào?",
+                "o": [
+                  "Phong cách lãnh đạo dân chủ.",
+                  "Phong cách lãnh đạo chuyên quyền, độc đoán.",
+                  "Phong cách lãnh đạo tự do.",
+                  "Tất cả đều đúng."
+                ],
+                "a": 0
+              },
+              {
+                "id": 16,
+                "q": "Câu nói 'Tôi muốn bạn phải……' thuộc phong cách lãnh đạo nào?",
+                "o": [
+                  "Phong cách lãnh đạo dân chủ.",
+                  "Phong cách lãnh đạo chuyên quyền, độc đoán.",
+                  "Phong cách lãnh đạo tự do.",
+                  "Tất cả đều đúng."
+                ],
+                "a": 1
+              },
+              {
+                "id": 17,
+                "q": "Lập kế hoạch chiến lược do cấp quản trị nào quyết định?",
+                "o": [
+                  "Quản trị viên cấp cao.",
+                  "Quản trị viên cấp trung.",
+                  "Quản trị viên cấp cơ sở.",
+                  "Tất cả đều đúng."
+                ],
+                "a": 0
+              },
+              {
+                "id": 18,
+                "q": "Loại kế hoạch nào có mục tiêu thường cô đọng, tổng thể, mang tính định hướng?",
+                "o": [
+                  "Kế hoạch tác nghiệp.",
+                  "Kế hoạch chiến lược.",
+                  "Cả A và B.",
+                  "Tất cả đều sai."
+                ],
+                "a": 1
+              },
+              {
+                "id": 19,
+                "q": "“Nhu cầu được thể hiện mình” thuộc nhu cầu mấy trong tháp nhu cầu Maslow?",
+                "o": [
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+                ],
+                "a": 3
+              },
+              {
+                "id": 20,
+                "q": "Nội dung “Xây dựng nhóm làm việc” thuộc chức năng nào?",
+                "o": [
+                  "Lập kế hoạch.",
+                  "Tổ chức.",
+                  "Lãnh đạo.",
+                  "Kiểm tra."
+                ],
+                "a": 1
+              },
+              {
+                "id": 21,
+                "q": "Các nhu cầu ở đáy thang bậc Maslow đặt cơ sở trên các thôi thúc vật lý và bao gồm nhu cầu thực phẩm, nước uống, giấc ngủ… Các nhu cầu này được hiểu là",
+                "o": [
+                  "nhu cầu an toàn và con người thường tìm cách thoả mãn nhu cầu này sau khi các nhu cầu khác đã được đáp ứng.",
+                  "nhu cầu an toàn và con người thường tìm cách thoả mãn nhu cầu này trước tiên.",
+                  "nhu cầu sinh lý học và con người thường tìm cách thoả mãn nhu cầu này sau khi các nhu cầu khác đã được đáp ứng.",
+                  "nhu cầu sinh lý học và con người thường tìm cách thoả mãn nhu cầu này trước tiên."
+                ],
+                "a": 3
+              },
+              {
+                "id": 22,
+                "q": "Đâu không phải là các bước trong quy trình kiểm tra?",
+                "o": [
+                  "Thiết lập tiêu chuẩn kiểm tra.",
+                  "Đo lường thành quả.",
+                  "Điều chỉnh các sai lệch.",
+                  "Đánh giá kiểm tra."
+                ],
+                "a": 3
+              }]
+        },
+        {
+            "id": 2,
+            "title": "phần tiếp theo nè",
+            "questions": []
+        },
+        {
+            "id": 2,
+            "title": "phần tiếp theo nè",
+            "questions": []
+        },
+        {
+            "id": 2,
+            "title": "phần tiếp theo nè",
+            "questions": []
+        },
+        {
+            "id": 2,
+            "title": "phần tiếp theo nè",
+            "questions": []
+        },
+        {
+            "id": 2,
+            "title": "phần tiếp theo nè",
+            "questions": []
+        },
+        {
+            "id": 2,
+            "title": "phần tiếp theo nè",
+            "questions": []
+        },
+        {
+            "id": 2,
+            "title": "phần tiếp theo nè",
+            "questions": []
+        },
+        {
+            "id": 2,
+            "title": "phần tiếp theo nè",
+            "questions": []
+        }
+    ]
+}

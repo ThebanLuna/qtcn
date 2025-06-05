@@ -515,7 +515,7 @@
                             "Các sản phẩm được thiết kế bởi các công nghệ Cơ khí và điện từ tích hợp hỗ trợ nhau",
                             "Các sản phẩm được thiết kế bởi các công nghệ tiên tiến nhất hiện nay"
                         ],
-                        "a": null
+                        "a": 22
                     },
                     {
                         "id": 6,
@@ -570,7 +570,7 @@
                             "1",
                             "3"
                         ],
-                        "a": null
+                        "a": 1
                     },
                     {
                         "id": 11,
@@ -581,7 +581,7 @@
                             "x",
                             "m"
                         ],
-                        "a": null
+                        "a": 2
                     },
                     {
                         "id": 12,

@@ -461,7 +461,8 @@
             "id": 2,
             "title": "Thi xong CDT uống beer",
             "questions": [
-                {
+                
+                   {
                     "id": 1,
                     "q": "Ngày mai chúng ta uống beer nha tất cả ae?",
                     "o": [
@@ -472,251 +473,350 @@
                     ],
                     "a": 2
                 },
+                    {
+                        "id": 2,
+                        "q": "Cơ điện tử là gì?",
+                        "o": [
+                            "Cơ điện tử là sự tích hợp chặt chế của kỹ thuật Cơ khí với Điện, Điện tử trong thiết kế và chế tạo các sản phẩm và quy trình công nghiệp",
+                            "Cơ điện tử là sự tích hợp chặt chẽ của kỹ thuật Cơ khí với Điện, Điện tử và Điều khiển trong thiết kế và chế tạo các sản phẩm và quy trình công nghiệp",
+                            "Cơ điện tử là sự tích hợp chặt chẽ của kỹ thuật Cơ khí với Điện, Điện tử và Điều khiển thông minh bằng máy tính trong thiết kế và chế tạo các sản phẩm và quy trình công nghiệp",
+                            "Cơ điện tử là sự tích hợp chặt chẽ của kỹ thuật Cơ khí với máy tính thông minh trong thiết kế và chế tạo các sản phẩm và quy trình công nghiệp"
+                        ],
+                        "a": 2
+                    },
+                    {
+                        "id": 3,
+                        "q": "Mô hình trong kỹ thuật được sử dụng để làm gì?",
+                        "o": [
+                            "Làm đối tượng trinh diễn",
+                            "Làm đối tượng quan sát thay cho nguyên hình",
+                            "Làm đối tượng quan sát thay cho đối tượng mẫu",
+                            "Làm đối tượng thay thế cho nguyên hình"
+                        ],
+                        "a": 1
+                    },
+                    {
+                        "id": 4,
+                        "q": "Phân lớp 1 của các hệ cơ điện tử có đặc điểm gì?",
+                        "o": [
+                            "Các sản phẩm điện tử là chính có sự kết hợp của máy tính để nâng cao tính năng",
+                            "Các sản phẩm cơ khí là chính có sự kết hợp của điện tử để nâng cao tính năng",
+                            "Các sản phẩm điện tử là chính có sự kết hợp của máy tính thông minh để nâng cao hiệu suất",
+                            "Các sản phẩm cơ khí là chính có sự kết hợp của máy tính để nâng cao tính năng"
+                        ],
+                        "a": 1
+                    },
+                    {
+                        "id": 5,
+                        "q": "Phân lớp 4 của các hệ cơ điện tử có đặc điểm gì?",
+                        "o": [
+                            "Các sản phẩm được thiết kế bởi các công nghệ Cơ khí và máy tính tích hợp",
+                            "Các sản phẩm được thiết kế bởi các công nghệ cao nhất hiện nay",
+                            "Các sản phẩm được thiết kế bởi các công nghệ Cơ khí và điện từ tích hợp hỗ trợ nhau",
+                            "Các sản phẩm được thiết kế bởi các công nghệ tiên tiến nhất hiện nay"
+                        ],
+                        "a": null
+                    },
+                    {
+                        "id": 6,
+                        "q": "Hai thực thể được gọi là mô hình tương tự khi:",
+                        "o": [
+                            "Khác nhau về bản chất vật lí nhưng trạng thái của chúng được mô tả bằng cùng một hệ phương trình vi phân và điều kiện đơn trị",
+                            "Cùng mô tả về một đối tượng",
+                            "Cùng được mô tả bởi một dạng toán học",
+                            "Các đại lượng vật lí của chúng cùng tên với nhau"
+                        ],
+                        "a": 0
+                    },
+                    {
+                        "id": 7,
+                        "q": "Chọn đáp án đúng nhất về tên gọi của các loại mô hình?",
+                        "o": [
+                            "Mô hình tương tự",
+                            "Mô hình trích mẫu",
+                            "Mô hình đồng dạng",
+                            "Tất cả các ý trên"
+                        ],
+                        "a": 3
+                    },
+                    {
+                        "id": 8,
+                        "q": "Phương trình vi phân?",
+                        "o": [
+                            "Là một loại phương trình có một hoặc nhiều \"dạng vi phân\" trong đó",
+                            "Là phương trình có chứa một hoặc nhiều ẩn trong đó",
+                            "Là phương trình có chứa ẩn là miền thời gian hoặc không gian",
+                            "Là phương trình dùng để mô tả trạng thái của đối tượng"
+                        ],
+                        "a": 0
+                    },
+                    {
+                        "id": 9,
+                        "q": "Ý nghĩa các số trong ký hiệu van đảo chiều 4/3?",
+                        "o": [
+                            "van đảo chiều có 3 cổng, 4 trạng thái",
+                            "van đảo chiều có 4 cổng, 3 trạng thái",
+                            "van đảo chiều có kích thước 4/3inch",
+                            "van đảo chiều có kích thước 4/3 mm"
+                        ],
+                        "a": 1
+                    },
+                    {
+                        "id": 10,
+                        "q": "Hệ dưới có số bậc tự do là",
+                        "o": [
+                            "4",
+                            "2",
+                            "1",
+                            "3"
+                        ],
+                        "a": null
+                    },
+                    {
+                        "id": 11,
+                        "q": "Đối tượng nghiên cứu của hệ dưới là:",
+                        "o": [
+                            "t",
+                            "xB",
+                            "x",
+                            "m"
+                        ],
+                        "a": null
+                    },
+                    {
+                        "id": 12,
+                        "q": "Phân lớp 2 của các hệ cơ điện tử có đặc điểm gì?",
+                        "o": [
+                            "Các hệ cơ khí truyền thống với sự hiện đại hóa đáng kể các thiết bị bên trong bằng việc kết hợp với các thiết bị điện tử, giao diện người dùng bên ngoài KHÔNG đổi",
+                            "Các hệ cơ khí truyền thống với sự hiện đại hóa đáng kể các thiết bị bên trong bằng việc kết hợp với các thiết bị điện từ, giao diện người dùng bên ngoài THAY đổi",
+                            "Các thay đổi về khung thân kết với sự hiện đại hóa đáng kể các thiết bị bên trong bằng việc kết hợp với các thiết bị điện từ, giao diện người dùng bên ngoài KHÔNG đổi",
+                            "Các thay đổi về khung thân kết với sự hiện đại hóa đáng kể các thiết bị bên trong bằng việc kết hợp với các thiết bị điện từ, giao diện người dùng bên ngoài THAY ĐỔI"
+                        ],
+                        "a": 0
+                    },
+                    {
+                        "id": 13,
+                        "q": "Mô hình trong kỹ thuật được sử dụng để làm gì?",
+                        "o": [
+                            "Làm đối tượng nghiên cứu về hệ thống cơ điện từ",
+                            "Làm đối tượng nghiên cứu (thực nghiệm hay suy diễn) về nguyên hình",
+                            "Làm đối tượng thay thế cho nguyên hình",
+                            "Làm đối tượng nghiên cứu (thực nghiệm hay suy diễn) về đối tượng cần trình diễn"
+                        ],
+                        "a": 1
+                    },
+                    {
+                        "id": 14,
+                        "q": "Cảm biến tích cực biến đổi trực tiếp đại lượng không điện cần đo thành:",
+                        "o": [
+                            "Trở kháng",
+                            "Đại lượng điện",
+                            "Tổng trở",
+                            "Đại lượng R-L-C"
+                        ],
+                        "a": 1
+                    },
+                    {
+                        "id": 15,
+                        "q": "Cảm biến tích cực là cảm biến có đáp ứng là:",
+                        "o": [
+                            "Điện tích",
+                            "Điện trở",
+                            "Điện dung",
+                            "Độ tự cảm"
+                        ],
+                        "a": 0
+                    },
+                    {
+                        "id": 16,
+                        "q": "Van servo:",
+                        "o": [
+                            "Cả 3 phương án còn lại",
+                            "Điều khiển có cấp",
+                            "Điều khiển vòng hở",
+                            "Là cơ cấu chỉnh hướng"
+                        ],
+                        "a": 0
+                    },
+                    {
+                        "id": 17,
+                        "q": "Đại lượng tác động đầu vào của cảm biến là:",
+                        "o": [
+                            "Đại lượng không điện",
+                            "Đại lượng cần đo và nhiễu",
+                            "Đại lượng điện",
+                            "Tổng trở"
+                        ],
+                        "a": 1
+                    },
+                    {
+                        "id": 18,
+                        "q": "Cảm biến nhiệt được chế tạo dựa trên nguyên lý nào sau đây?",
+                        "o": [
+                            "Hiệu ứng nhiệt điện",
+                            "Hiệu ứng hóa nhiệt",
+                            "Hiệu ứng áp điện",
+                            "Hiệu ứng quang điện"
+                        ],
+                        "a": 0
+                    },
+                    {
+                        "id": 19,
+                        "q": "PLC là gì",
+                        "o": [
+                            "Bộ điều khiển logic hiện đại",
+                            "Bộ điều khiển máy tự động",
+                            "Bộ điều khiển logic khả trình",
+                            "Bộ điều khiển cơ điện từ"
+                        ],
+                        "a": 2
+                    },
+                    {
+                        "id": 20,
+                        "q": "Động cơ đồng bộ:",
+                        "o": [
+                            "Là động cơ một chiều mà rotor quay cùng tốc độ với tốc độ từ trường của stator",
+                            "Là động cơ mà cấu trúc rotor và stator đồng bộ với nhau",
+                            "Là động cơ mà chuyển động quay của từ trường đồng bộ với tần số của dòng điện cung cấp",
+                            "Là động cơ xoay chiều mà rotor quay cùng tốc độ với tốc độ từ trường của stator"
+                        ],
+                        "a": 3
+                    },
+                    {
+                        "id": 21,
+                        "q": "Đặc tính của động cơ bước:",
+                        "o": [
+                            "Có chổi than, độc lập với tải, điều khiển vòng hở, đáp ứng tốt",
+                            "Không chổi than, độc lập với tải, điều khiển vòng hở, đáp ứng tốt",
+                            "Không chổi than, phụ thuộc vào tải, điều khiển vòng hở, đáp ứng tốt",
+                            "Không chổi than, phụ thuộc vào tải, điều khiển vòng kín, đáp ứng tốt"
+                        ],
+                        "a": 1
+                    },
+                    {
+                        "id": 22,
+                        "q": "Cảm biến là thiết bị dùng để biến đổi các đại lượng nào sau đây?",
+                        "o": [
+                            "Đại lượng vật lý",
+                            "Đại lượng điện",
+                            "Đại lượng dòng điện",
+                            "Đại lượng điện áp"
+                        ],
+                        "a": 0
+                    },
+                    {
+                        "id": 23,
+                        "q": "Đặc điểm của động cơ xoay chiều:",
+                        "o": [
+                            "Sử dụng nguồn điện trực tiếp từ lưới điện, không điều khiển được tốc độ quay",
+                            "Mô men khởi động lớn",
+                            "Cấu tạo phức tạp, khó sử dụng",
+                            "Cấu tạo đơn giản, kết cấu bền vững, khả năng chịu quá tải tốt"
+                        ],
+                        "a": 3
+                    },
+                    {
+                        "id": 24,
+                        "q": "Chọn đáp án đúng về ưu điểm của PLC",
+                        "o": [
+                            "Làm việc kém tin cậy trong môi trường công nghiệp",
+                            "Tất cả các phương án còn lại",
+                            "Cho phép thay đổi chương trình điều khiển nhanh chóng",
+                            "Khả năng chống bụi tốt"
+                        ],
+                        "a": 2
+                    },
+                    {
+                        "id": 25,
+                        "q": "Cảm biến thụ động là cảm biến có đáp ứng là:",
+                        "o": [
+                            "Điện trở",
+                            "Điện dung",
+                            "Cả 3 đáp án trên",
+                            "Độ tự cảm"
+                        ],
+                        "a": 2
+                    },
+                    {
+                        "id": 26,
+                        "q": "Cảm biến tích cực biến đổi trực tiếp đại lượng không điện cần đo thành:",
+                        "o": [
+                            "Trở kháng",
+                            "Đại lượng R-L-C",
+                            "Đại lượng điện",
+                            "Tổng trở"
+                        ],
+                        "a": 2
+                    },
+                    {
+                        "id": 27,
+                        "q": "Đại lượng đầu ra của cảm biến là:",
+                        "o": [
+                            "Xung",
+                            "Nhiễu",
+                            "Độ nhạy",
+                            "Điện áp hoặc dòng điện"
+                        ],
+                        "a": 3
+                    },
+                    {
+                        "id": 28,
+                        "q": "Thermocouple là gì?",
+                        "o": [
+                            "Nhiệt điện trở",
+                            "Nhiệt kế giãn nở",
+                            "Cặp nhiệt điện",
+                            "Hỏa kế"
+                        ],
+                        "a": 2
+                    },
+                    {
+                        "id": 29,
+                        "q": "Cảm biến là thiết bị chuyển các đại lượng vật lý thành:",
+                        "o": [
+                            "Đại lượng tốc độ",
+                            "Đại lượng điện",
+                            "Đại lượng áp suất",
+                            "Đại lượng không điện"
+                        ],
+                        "a": 1
+                    }
+                ]
+            },
                 {
                     "id": 2,
-                    "q": "Cơ điện tử là gì?",
-                    "o": [
-                        "Cơ điện tử là sự tích hợp chặt chế của kỹ thuật Cơ khí với Điện, Điện tử trong thiết kế và chế tạo các sản phẩm và quy trình công nghiệp",
-                        "Cơ điện tử là sự tích hợp chặt chẽ của kỹ thuật Cơ khí với Điện, Điện tử và Điều khiển trong thiết kế và chế tạo các sản phẩm và quy trình công nghiệp",
-                        "Cơ điện tử là sự tích hợp chặt chẽ của kỹ thuật Cơ khí với Điện, Điện tử và Điều khiển thông minh bằng máy tính trong thiết kế và chế tạo các sản phẩm và quy trình công nghiệp",
-                        "Cơ điện tử là sự tích hợp chặt chẽ của kỹ thuật Cơ khí với máy tính thông minh trong thiết kế và chế tạo các sản phẩm và quy trình công nghiệp"
-                    ],
-                    "a": 2
+                    "title": "phần tiếp theo nè",
+                    "questions": []
                 },
                 {
-                    "id": 12,
-                    "q": "Phân lớp 2 của các hệ cơ điện tử có đặc điểm gì?",
-                    "o": [
-                        "Các hệ cơ khí truyền thống với sự hiện đại hóa đáng kể các thiết bị bên trong bằng việc kết hợp với các thiết bị điện tử, giao diện người dùng bên ngoài KHÔNG đổi",
-                        "Các hệ cơ khí truyền thống với sự hiện đại hóa đáng kể các thiết bị bên trong bằng việc kết hợp với các thiết bị điện từ, giao diện người dùng bên ngoài THAY đổi",
-                        "Các thay đổi về khung thân kết với sự hiện đại hóa đáng kể các thiết bị bên trong bằng việc kết hợp với các thiết bị điện từ, giao diện người dùng bên ngoài KHÔNG đổi",
-                        "Các thay đổi về khung thân kết với sự hiện đại hóa đáng kể các thiết bị bên trong bằng việc kết hợp với các thiết bị điện từ, giao diện người dùng bên ngoài THAY ĐỔI"
-                    ],
-                    "a": 0
+                    "id": 2,
+                    "title": "phần tiếp theo nè",
+                    "questions": []
                 },
                 {
-                    "id": 13,
-                    "q": "Mô hình trong kỹ thuật được sử dụng để làm gì?",
-                    "o": [
-                        "Làm đối tượng nghiên cứu về hệ thống cơ điện từ",
-                        "Làm đối tượng nghiên cứu (thực nghiệm hay suy diễn) về nguyên hình",
-                        "Làm đối tượng thay thế cho nguyên hình",
-                        "Làm đối tượng nghiên cứu (thực nghiệm hay suy diễn) về đối tượng cần trình diễn"
-                    ],
-                    "a": 1
+                    "id": 2,
+                    "title": "phần tiếp theo nè",
+                    "questions": []
                 },
                 {
-                    "id": 14,
-                    "q": "Cảm biến tích cực biến đổi trực tiếp đại lượng không điện cần đo thành:",
-                    "o": [
-                        "Trở kháng",
-                        "Đại lượng điện",
-                        "Tổng trở",
-                        "Đại lượng R-L-C"
-                    ],
-                    "a": 1
+                    "id": 2,
+                    "title": "phần tiếp theo nè",
+                    "questions": []
                 },
                 {
-                    "id": 15,
-                    "q": "Cảm biến tích cực là cảm biến có đáp ứng là:",
-                    "o": [
-                        "Điện tích",
-                        "Điện trở",
-                        "Điện dung",
-                        "Độ tự cảm"
-                    ],
-                    "a": 0
+                    "id": 2,
+                    "title": "phần tiếp theo nè",
+                    "questions": []
                 },
                 {
-                    "id": 16,
-                    "q": "Van servo:",
-                    "o": [
-                        "Cả 3 phương án còn lại",
-                        "Điều khiển có cấp",
-                        "Điều khiển vòng hở",
-                        "Là cơ cấu chỉnh hướng"
-                    ],
-                    "a": 0
+                    "id": 2,
+                    "title": "phần tiếp theo nè",
+                    "questions": []
                 },
                 {
-                    "id": 17,
-                    "q": "Đại lượng tác động đầu vào của cảm biến là:",
-                    "o": [
-                        "Đại lượng không điện",
-                        "Đại lượng cần đo và nhiễu",
-                        "Đại lượng điện",
-                        "Tổng trở"
-                    ],
-                    "a": 1
-                },
-                {
-                    "id": 18,
-                    "q": "Cảm biến nhiệt được chế tạo dựa trên nguyên lý nào sau đây?",
-                    "o": [
-                        "Hiệu ứng nhiệt điện",
-                        "Hiệu ứng hóa nhiệt",
-                        "Hiệu ứng áp điện",
-                        "Hiệu ứng quang điện"
-                    ],
-                    "a": 0
-                },
-                {
-                    "id": 19,
-                    "q": "PLC là gì",
-                    "o": [
-                        "Bộ điều khiển logic hiện đại",
-                        "Bộ điều khiển máy tự động",
-                        "Bộ điều khiển logic khả trình",
-                        "Bộ điều khiển cơ điện từ"
-                    ],
-                    "a": 2
-                },
-                {
-                    "id": 20,
-                    "q": "Động cơ đồng bộ:",
-                    "o": [
-                        "Là động cơ một chiều mà rotor quay cùng tốc độ với tốc độ từ trường của stator",
-                        "Là động cơ mà cấu trúc rotor và stator đồng bộ với nhau",
-                        "Là động cơ mà chuyển động quay của từ trường đồng bộ với tần số của dòng điện cung cấp",
-                        "Là động cơ xoay chiều mà rotor quay cùng tốc độ với tốc độ từ trường của stator"
-                    ],
-                    "a": 3
-                },
-                {
-                    "id": 21,
-                    "q": "Đặc tính của động cơ bước:",
-                    "o": [
-                        "Có chổi than, độc lập với tải, điều khiển vòng hở, đáp ứng tốt",
-                        "Không chổi than, độc lập với tải, điều khiển vòng hở, đáp ứng tốt",
-                        "Không chổi than, phụ thuộc vào tải, điều khiển vòng hở, đáp ứng tốt",
-                        "Không chổi than, phụ thuộc vào tải, điều khiển vòng kín, đáp ứng tốt"
-                    ],
-                    "a": 1
-                },
-                {
-                    "id": 22,
-                    "q": "Cảm biến là thiết bị dùng để biến đổi các đại lượng nào sau đây?",
-                    "o": [
-                        "Đại lượng vật lý",
-                        "Đại lượng điện",
-                        "Đại lượng dòng điện",
-                        "Đại lượng điện áp"
-                    ],
-                    "a": 0
-                },
-                {
-                    "id": 23,
-                    "q": "Đặc điểm của động cơ xoay chiều:",
-                    "o": [
-                        "Sử dụng nguồn điện trực tiếp từ lưới điện, không điều khiển được tốc độ quay",
-                        "Mô men khởi động lớn",
-                        "Cấu tạo phức tạp, khó sử dụng",
-                        "Cấu tạo đơn giản, kết cấu bền vững, khả năng chịu quá tải tốt"
-                    ],
-                    "a": 3
-                },
-                {
-                    "id": 24,
-                    "q": "Chọn đáp án đúng về ưu điểm của PLC",
-                    "o": [
-                        "Làm việc kém tin cậy trong môi trường công nghiệp",
-                        "Tất cả các phương án còn lại",
-                        "Cho phép thay đổi chương trình điều khiển nhanh chóng",
-                        "Khả năng chống bụi tốt"
-                    ],
-                    "a": 2
-                },
-                {
-                    "id": 25,
-                    "q": "Cảm biến thụ động là cảm biến có đáp ứng là:",
-                    "o": [
-                        "Điện trở",
-                        "Điện dung",
-                        "Cả 3 đáp án trên",
-                        "Độ tự cảm"
-                    ],
-                    "a": 2
-                },
-                {
-                    "id": 26,
-                    "q": "Cảm biến tích cực biến đổi trực tiếp đại lượng không điện cần đo thành:",
-                    "o": [
-                        "Trở kháng",
-                        "Đại lượng R-L-C",
-                        "Đại lượng điện",
-                        "Tổng trở"
-                    ],
-                    "a": 2
-                },
-                {
-                    "id": 27,
-                    "q": "Đại lượng đầu ra của cảm biến là:",
-                    "o": [
-                        "Xung",
-                        "Nhiễu",
-                        "Độ nhạy",
-                        "Điện áp hoặc dòng điện"
-                    ],
-                    "a": 3
-                },
-                {
-                    "id": 28,
-                    "q": "Thermocouple là gì?",
-                    "o": [
-                        "Nhiệt điện trở",
-                        "Nhiệt kế giãn nở",
-                        "Cặp nhiệt điện",
-                        "Hỏa kế"
-                    ],
-                    "a": 2
-                },
-                {
-                    "id": 29,
-                    "q": "Cảm biến là thiết bị chuyển các đại lượng vật lý thành:",
-                    "o": [
-                        "Đại lượng tốc độ",
-                        "Đại lượng điện",
-                        "Đại lượng áp suất",
-                        "Đại lượng không điện"
-                    ],
-                    "a": 1
+                    "id": 2,
+                    "title": "phần tiếp theo nè",
+                    "questions": []
                 }
             ]
-        },
-        {
-            "id": 2,
-            "title": "phần tiếp theo nè",
-            "questions": []
-        },
-        {
-            "id": 2,
-            "title": "phần tiếp theo nè",
-            "questions": []
-        },
-        {
-            "id": 2,
-            "title": "phần tiếp theo nè",
-            "questions": []
-        },
-        {
-            "id": 2,
-            "title": "phần tiếp theo nè",
-            "questions": []
-        },
-        {
-            "id": 2,
-            "title": "phần tiếp theo nè",
-            "questions": []
-        },
-        {
-            "id": 2,
-            "title": "phần tiếp theo nè",
-            "questions": []
-        },
-        {
-            "id": 2,
-            "title": "phần tiếp theo nè",
-            "questions": []
         }
-    ]
-}

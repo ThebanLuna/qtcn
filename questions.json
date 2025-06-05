@@ -515,7 +515,7 @@
                             "Các sản phẩm được thiết kế bởi các công nghệ Cơ khí và điện từ tích hợp hỗ trợ nhau",
                             "Các sản phẩm được thiết kế bởi các công nghệ tiên tiến nhất hiện nay"
                         ],
-                        "a": 22
+                        "a": 2
                     },
                     {
                         "id": 6,
@@ -636,7 +636,7 @@
                             "Điều khiển vòng hở",
                             "Là cơ cấu chỉnh hướng"
                         ],
-                        "a": 0
+                        "a": 3
                     },
                     {
                         "id": 17,
@@ -647,7 +647,7 @@
                             "Đại lượng điện",
                             "Tổng trở"
                         ],
-                        "a": 1
+                        "a": 0
                     },
                     {
                         "id": 18,
@@ -768,7 +768,7 @@
                             "Cặp nhiệt điện",
                             "Hỏa kế"
                         ],
-                        "a": 2
+                        "a": 0
                     },
                     {
                         "id": 29,
